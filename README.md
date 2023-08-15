@@ -1,7 +1,6 @@
 # Coderhouse
 
 ```mermaid
-erDiagram;
     Species ||--o{ CoffeeData : "FK_SpeciesID";
     Species {
         int SpeciesID PK
