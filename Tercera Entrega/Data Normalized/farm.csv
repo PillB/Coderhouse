@@ -1,869 +1,718 @@
 Farm.Name,Altitude,Region,altitude_low_meters,altitude_high_meters,altitude_mean_meters,FarmID
-metad plc,1950-2200,guji-hambela,1950.0,2200.0,2075.0,1
-"san marcos barrancas ""san cristobal cuch",1600 - 1800 m,Unknown,1600.0,1800.0,1700.0,2
-yidnekachew dabessa coffee plantation,1800-2200,oromia,1800.0,2200.0,2000.0,3
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,4
-aolme,1570-1700,oromia,1570.0,1700.0,1635.0,5
-aolme,1570-1700,oromiya,1570.0,1700.0,1635.0,6
-tulla coffee farm,1795-1850,"snnp/kaffa zone,gimbowereda",1795.0,1850.0,1822.5,7
-fahem coffee plantation,1855-1955,oromia,1855.0,1955.0,1905.0,8
-el filo,meters above sea level: 1.872,antioquia,1872.0,1872.0,1872.0,9
-los cedros,meters above sea level: 1.943,antioquia,1943.0,1943.0,1943.0,10
-arianna farms,2000 ft,kona,609.6,609.6,609.6,11
-el águila,meters above sea level: 2.080,antioquia,2080.0,2080.0,2080.0,12
-toarco jaya,1200-1800m,sulawesi,1200.0,1800.0,1500.0,13
-Unknown,Unknown,yirgacheffe,Unknown,Unknown,Unknown,14
-echo coffee,1450,yunnan,1450.0,1450.0,1450.0,15
-drima zede,1700-2000m,gedio,1700.0,2000.0,1850.0,16
-el rodeo,meters above sea level: 2.019,antioquia,2019.0,2019.0,2019.0,17
-several,1300 msnm,san ramon,1300.0,1300.0,1300.0,18
-la herradura,1320,xalapa,1320.0,1320.0,1320.0,19
-la curva,meters above sea level: 2.112,antioquia,2112.0,2112.0,2112.0,20
-Unknown,Unknown,sidamo,Unknown,Unknown,Unknown,21
-fazenda kaquend,1250m,south of minas,1250.0,1250.0,1250.0,22
-chebonet (23) women coffee,1950,kapchorwa eastern,1950.0,1950.0,1950.0,23
-los hicaques,1400,comayagua,1400.0,1400.0,1400.0,24
-tsoustructive garden 鄒築園,1200,"leye, alishan township, chiayi county",1200.0,1200.0,1200.0,25
-fazenda recreio,1300,vale da grama,1300.0,1300.0,1300.0,26
-exclusive coffees s.a.,1300,west and central valley,1300.0,1300.0,1300.0,27
-haider abamecha coffee plantation,1750-1800,oromia,1750.0,1800.0,1775.0,28
-kangunu,1800,muranga,1800.0,1800.0,1800.0,29
-Unknown,Unknown,kona,Unknown,Unknown,Unknown,30
-kona pacific farmers cooperative,Unknown,kona,Unknown,Unknown,Unknown,31
-"phone number | 0911-51-08-01, email | at",Unknown,yirgacheffe,Unknown,Unknown,Unknown,32
-la primavera,meters above sea level: 1.941,antioquia,1941.0,1941.0,1941.0,33
-co-op #12,1300,chiang rai,1300.0,1300.0,1300.0,34
-pereira estate coffee,1.2,sul de minas - carmo de minas,12.0,12.0,12.0,35
-sunshine valley estate 向陽高山咖啡,1000 m,natou county,1000.0,1000.0,1000.0,36
-jungle estate,1754,nyeri,1754.0,1754.0,1754.0,37
-kaasayi,Unknown,eastern uganda,Unknown,Unknown,Unknown,38
-ecobio colombia,900-1500m,tolima,900.0,1500.0,1200.0,39
-kianjavi,1520m-2200m,kiambu,1520.0,2200.0,1860.0,40
-Unknown,1400-1900m,"sipi, mt elgon",1400.0,1900.0,1650.0,41
-contact | sidacoop@ethionet.net,1500-2000 m,sidamo,1500.0,2000.0,1750.0,42
-hula daddy kona coffee,1400ft,kona,426.72,426.72,426.72,43
-la esperanza y anexos,Unknown,nuevo oriente,Unknown,Unknown,Unknown,44
-sipi organic coffee project,1400-1900,eastern,1400.0,1900.0,1650.0,45
-Unknown,1800 msnm,huila,1800.0,1800.0,1800.0,46
-la berlina estate,1600,boquete,1600.0,1600.0,1600.0,47
-Unknown,1800-2000,oromia,1800.0,2000.0,1900.0,48
-valparaiso,5000,acatenango,1524.0,1524.0,1524.0,49
-finca el limon,4650,nuevo oriente,1417.32,1417.32,1417.32,50
-seid damtew coffee planation,Unknown,addis ababa,Unknown,Unknown,Unknown,51
-Unknown,Unknown,cajamarca,Unknown,Unknown,Unknown,52
-tairora cherry – bonta,1700 mts,eastern highlands province,1700.0,1700.0,1700.0,53
-el majahual,1500 meters,apaneca,1500.0,1500.0,1500.0,54
-finca la esmeralda,1300~1400 m.s.l,"ataco, apaneca - ilamatepec mountain range",1300.0,1400.0,1350.0,55
-elida estate,1680,boquete,1680.0,1680.0,1680.0,56
-inoi,1900m,kirinyaga,1900.0,1900.0,1900.0,57
-buginyanya,1600,bulambuli eastern region,1600.0,1600.0,1600.0,58
-asoperc,5600-5760 metros,huehuetenango,1706.88,1755.648,1731.264,59
-chesiyo farmer group,1950,kapchorwa,1950.0,1950.0,1950.0,60
-fazenda serra de três barras,1250m,south of minas,1250.0,1250.0,1250.0,61
-sierra nevada,1400 m,apaneca,1400.0,1400.0,1400.0,62
-pu'er city longke coffee co.ltd,1700,yunnan,1700.0,1700.0,1700.0,63
-el injerto s.a.,1770,huehuetenango,1770.0,1770.0,1770.0,64
-several,1300,west valley,1300.0,1300.0,1300.0,65
-Unknown,above 1600 m,central kenya,1600.0,1600.0,1600.0,66
-Unknown,above 1200 m,central kenya,1200.0,1200.0,1200.0,67
-phone number | 0911-513824 email: gmt.ft,Unknown,yirgacheffe,Unknown,Unknown,Unknown,68
-la esperanza y anexos,Unknown,oriente,Unknown,Unknown,Unknown,69
-various,1550 msnm,santander,1550.0,1550.0,1550.0,70
-Unknown,1550,santander,1550.0,1550.0,1550.0,71
-Unknown,1250-1400 meter,lintong,1250.0,1400.0,1325.0,72
-coop. hoja blanca - fedecocagua,1400 msm,huehuetenango,1400.0,1400.0,1400.0,73
-seid damtew coffee planation,Unknown,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",Unknown,Unknown,Unknown,74
-Unknown,2.560 msnm,pasto,2560.0,2560.0,2560.0,75
-aricha coop,1700,aricha,1700.0,1700.0,1700.0,76
-Unknown,2136 msnm,cundinamarca,2136.0,2136.0,2136.0,77
-mount elgon area,1800,eastern uganda,1800.0,1800.0,1800.0,78
-Unknown,Unknown,huila,Unknown,Unknown,Unknown,79
-estate la patricia,1900,tarrazu,1900.0,1900.0,1900.0,80
-various,1300,veracruz,1300.0,1300.0,1300.0,81
-Unknown,-1,Unknown,1.0,1.0,1.0,82
-machure estate,1580,central kenya,1580.0,1580.0,1580.0,83
-sitío são geraldo,1100m,grama valley,1100.0,1100.0,1100.0,84
-kassandra,1400 masl,mexico,1400.0,1400.0,1400.0,85
-la igualdad,3500-5200 feet,"chuva, san marcos",1066.8,1584.96,1325.88,86
-Unknown,de 1600 a 1950 msnm,huila,1600.0,1950.0,1775.0,87
-baishengcun coffee 百勝村咖啡莊園,800 m,natou county,800.0,800.0,800.0,88
-hasambo amcos,1620m,mbeya,1620.0,1620.0,1620.0,89
-el suspiro,1200,coatepec,1200.0,1200.0,1200.0,90
-fazenda grota funda,1200m,south of minas,1200.0,1200.0,1200.0,91
-sitio claro,1000 m,south of minas,1000.0,1000.0,1000.0,92
-shi fang yuan 十方源,350,"dongshan dist., tainan city 臺南市東山區",350.0,350.0,350.0,93
-mt.elgon bugisu shamba 2,1400-1900,eastern,1400.0,1900.0,1650.0,94
-matsuzawa coffee,Unknown,thailand,Unknown,Unknown,Unknown,95
-karatina,1800,nyeri,1800.0,1800.0,1800.0,96
-cerro bueno,1450 msnm,marcala,1450.0,1450.0,1450.0,97
-several,1200 mts,santa ana,1200.0,1200.0,1200.0,98
-santa martha,800-1050m,jinotega,800.0,1050.0,925.0,99
-monterrey,1350,apaneca,1350.0,1350.0,1350.0,100
-sran temanggung plantation,1200,"temanggung, indonesia",1200.0,1200.0,1200.0,101
-ada farm,170,ada okinawa japan,170.0,170.0,170.0,102
-rio jorco,1150,tarrazu,1150.0,1150.0,1150.0,103
-san diego buena vista,1600,acatenango,1600.0,1600.0,1600.0,104
-coopetarrazú,1750,tarrazu,1750.0,1750.0,1750.0,105
-moplaco,1900m,yirgacheffe,1900.0,1900.0,1900.0,106
-finca salaca las brisas,1750m,costa rica,1750.0,1750.0,1750.0,107
-various,1200,west valley,1200.0,1200.0,1200.0,108
-dragon 龍咖啡,1000 m,taichung xinshe 台中市新社區,1000.0,1000.0,1000.0,109
-Unknown,2000,nyeri,2000.0,2000.0,2000.0,110
-agropecuaria quiagral,4300,oriente,1310.64,1310.64,1310.64,111
-"el nogal, la higuera, los laureles",1200,el remudadero,1200.0,1200.0,1200.0,112
-Unknown,1700-1850m,mbale,1700.0,1850.0,1775.0,113
-Unknown,Unknown,"penachi, cecanor",Unknown,Unknown,Unknown,114
-Unknown,1500,santander,1500.0,1500.0,1500.0,115
-blend,1800,nyeri,1800.0,1800.0,1800.0,116
-el morito,5000 ft.,jalapa,1524.0,1524.0,1524.0,117
-el papaturro,4000 psn,oriente,1219.2,1219.2,1219.2,118
-Unknown,1600 a 1900 msnm,huila,1600.0,1900.0,1750.0,119
-Unknown,1750 msnm,huila,1750.0,1750.0,1750.0,120
-la chaparral,1450 ~ 1700 m,tres rios,1450.0,1700.0,1575.0,121
-various,1800 msnm,huila,1800.0,1800.0,1800.0,122
-fazenda recreio,1300m,vale da grama,1300.0,1300.0,1300.0,123
-fazenda vista alegre,1100m,mountains of minas gerais,1100.0,1100.0,1100.0,124
-Unknown,1200,valle central,1200.0,1200.0,1200.0,125
-kawacom sipi project,1750,eastern uganda,1750.0,1750.0,1750.0,126
-menglian ban’an coffee processing factory,1680,yunnan,1680.0,1680.0,1680.0,127
-coopetarrazú,1700,tarrazu,1700.0,1700.0,1700.0,128
-Unknown,1800,cauca,1800.0,1800.0,1800.0,129
-"puer jiangcheng fuwang coffee biotechnology co., ltd",above 1100m,yunnan,1100.0,1100.0,1100.0,130
-el sacramento,4300,oriente,1310.64,1310.64,1310.64,131
-rumukia farmers,2000 m,nyeri,2000.0,2000.0,2000.0,132
-la barranca,1350,hustusco,1350.0,1350.0,1350.0,133
-finca el retiro,1500,jaltenango,1500.0,1500.0,1500.0,134
-nueva granada,Unknown,"el tumbador, san marcos",Unknown,Unknown,Unknown,135
-Unknown,mmm,mmm,Unknown,Unknown,Unknown,136
-Unknown,test,test,Unknown,Unknown,Unknown,137
-several farmers,1300,tarrazu,1300.0,1300.0,1300.0,138
-darmawi,1400,sumatra brastagi,1400.0,1400.0,1400.0,139
-Unknown,Unknown,pitalito,Unknown,Unknown,Unknown,140
-tropica galliard,1200m,"mountain ali, taiwan",1200.0,1200.0,1200.0,141
-finca la chiripa,900,tapachula,900.0,900.0,900.0,142
-phone number | 0911-513824 email: gmt.ft,Unknown,limu,Unknown,Unknown,Unknown,143
-kigwandi,1800,nyeri,1800.0,1800.0,1800.0,144
-las cuchillas,1500,comayagua,1500.0,1500.0,1500.0,145
-los hicaques,1500,central region,1500.0,1500.0,1500.0,146
-Unknown,Unknown,la plata,Unknown,Unknown,Unknown,147
-Unknown,442 msnm,huila,442.0,442.0,442.0,148
-Unknown,1800,huila,1800.0,1800.0,1800.0,149
-la distancia,1700,tuxtla gutierrez,1700.0,1700.0,1700.0,150
-santa alina,1200m to 1350m,vale da grama,1200.0,1350.0,1275.0,151
-fazenda baipendi,900-1200m,south of minas,900.0,1200.0,1050.0,152
-Unknown,3600-6200 ft,limu,1097.28,1889.76,1493.52,153
-las minas,4400-4700 ft,nuevo oriente,1341.12,1432.56,1386.84,154
-馨晴咖啡 good mood coffee,1000,國姓鄉 guoshing township,1000.0,1000.0,1000.0,155
-matsuzawa coffee,1200,chiang rai thailand,1200.0,1200.0,1200.0,156
-Unknown,2560,nariño,2560.0,2560.0,2560.0,157
-finca medina,1500,antigua,1500.0,1500.0,1500.0,158
-finca san vicente,3607,huehuetenango,1099.4136,1099.4136,1099.4136,159
-menglian county nayun town mangzhang coffee farm,1400,yunnan,1400.0,1400.0,1400.0,160
-jacksom mwasenga,1620m,shizingo village,1620.0,1620.0,1620.0,161
-suma jkt itende,1600,mbeya,1600.0,1600.0,1600.0,162
-el papaturro,4000 psnm,oriente,1219.2,1219.2,1219.2,163
-Unknown,1700,cauca,1700.0,1700.0,1700.0,164
-pante carajillo,1450,san pedro cotzilnam,1450.0,1450.0,1450.0,165
-finca los barreales,1170,veracruz,1170.0,1170.0,1170.0,166
-finca santa teresa,1400,"la concordia, chiapas",1400.0,1400.0,1400.0,167
-Unknown,1700m,kasese,1700.0,1700.0,1700.0,168
-piamonte,1700,san marcos,1700.0,1700.0,1700.0,169
-los girasoles,1700,tarrazu,1700.0,1700.0,1700.0,170
-finca la joya,3664,huehuetenango,1116.7872,1116.7872,1116.7872,171
-santo tomas pachuj,1565,solola,1565.0,1565.0,1565.0,172
-chapultepec,3280,norte,3280.0,3280.0,3280.0,173
-las nubes,de 900 a 1100 msnm,jinotega,900.0,1100.0,1000.0,174
-pantano,1150,cerrado,1150.0,1150.0,1150.0,175
-gamboa,1850,tarrazu,1850.0,1850.0,1850.0,176
-asefa dukamo coffee plantation,1545-1668 masl,snnprg; kafa; telo woreda; shada kebele,1545.0,1668.0,1606.5,177
-selian coffee estate,1400,arusha,1400.0,1400.0,1400.0,178
-Unknown,1530,huila,1530.0,1530.0,1530.0,179
-Unknown,approx. 1'500 metres a.s.l.,kenya,1.0,500.0,250.5,180
-café do paraíso,894m - 1183m,"minas gerais, br",894.0,1183.0,1038.5,181
-la union monte verde,4300,oriente,1310.64,1310.64,1310.64,182
-el limon,Unknown,guatemala,Unknown,Unknown,Unknown,183
-Unknown,1500-1700m,mt. rwenzori,1500.0,1700.0,1600.0,184
-"mus, eman",Unknown,aceh tengah,Unknown,Unknown,Unknown,185
-Unknown,442,huila,442.0,442.0,442.0,186
-chang yu liang 張玉良,968,"nanxi dist., tainan city 臺南市楠西區",968.0,968.0,968.0,187
-aprocafi,1550,"aldea xeucalvitz, ixil region, quiche department",1550.0,1550.0,1550.0,188
-la lagunilla,1480,santo domingo cacalotepec,1480.0,1480.0,1480.0,189
-Unknown,1800m,"ethiopia, sidamo",1800.0,1800.0,1800.0,190
-kerchanshe,1800,sidamo,1800.0,1800.0,1800.0,191
-finca los cerros y anexos,5440 - 5760 metros,huehuetenango,1658.112,1755.648,1706.88,192
-Unknown,1600,huila,1600.0,1600.0,1600.0,193
-Unknown,1480,huila,1480.0,1480.0,1480.0,194
-Unknown,1450,santander,1450.0,1450.0,1450.0,195
-Unknown,1550 m,sidamo,1550.0,1550.0,1550.0,196
-fazenda rio verde,1260,south of minas,1260.0,1260.0,1260.0,197
-Unknown,1700 msnm,cauca,1700.0,1700.0,1700.0,198
-Unknown,above 1200 m,blend,1200.0,1200.0,1200.0,199
-doi tung development project,Unknown,thailand,Unknown,Unknown,Unknown,200
--,1650,central kenya,1650.0,1650.0,1650.0,201
-doi tung development project,Unknown,Unknown,Unknown,Unknown,Unknown,202
-fazenda capoeirnha,890,south of minas,890.0,890.0,890.0,203
-cafetal,1300,veracruz,1300.0,1300.0,1300.0,204
-saveg coffee farm,1350,chiangrai,1350.0,1350.0,1350.0,205
-capoeirinha,934,south of minas,934.0,934.0,934.0,206
-tsoustructive garden 鄒築園,1200,"leye, alishan township, chiayi county 嘉義阿里山樂野村",1200.0,1200.0,1200.0,207
-very famous intl.名門義理國際股份有限公司,Unknown,台灣,Unknown,Unknown,Unknown,208
-神谷山莊園,950公尺,台中和平區,950.0,950.0,950.0,209
-finca cuetzalingo,900,xicotepec de juarez,900.0,900.0,900.0,210
-finca sant rosa,1500,la concordia,1500.0,1500.0,1500.0,211
-comunidad la yerbabuena,1400,la yerbabuena,1400.0,1400.0,1400.0,212
-Unknown,2527,nariño,2527.0,2527.0,2527.0,213
-優遊吧斯股份有限公司yuyupas international corp.,1200,台灣,1200.0,1200.0,1200.0,214
-rio verde,1,south of minas,1.0,1.0,1.0,215
-鄉舍咖啡 hometown coffee,480-570m,"dongshan dist., tainan city 臺南市東山區",480.0,570.0,525.0,216
-Unknown,1650-1703,oromia,1650.0,1703.0,1676.5,217
-rio verde,1200,south of minas,1200.0,1200.0,1200.0,218
-various,1200-1400,central valley,1200.0,1400.0,1300.0,219
-finca el trueno,800 meters above sea level,"province of manabi, ecuador",800.0,800.0,800.0,220
-finca el morito,4300,oriente,1310.64,1310.64,1310.64,221
-predio cañada del encino,1218,petatlan,1218.0,1218.0,1218.0,222
-finca santa teresa,1300,"la concordia, chiapas",1300.0,1300.0,1300.0,223
-fazenda do sertao,1.250 m,carmo de minas,1250.0,1250.0,1250.0,224
-"doi chaang coffee original co.,ltd",4921ft,"doi chaang village, chiang rai, thialand",1499.9208,1499.9208,1499.9208,225
-"phone number | 0911-51-08-01, email | at",Unknown,sidamo,Unknown,Unknown,Unknown,226
-Unknown,1800,nyeri,1800.0,1800.0,1800.0,227
-崁頭山咖啡館 (kan tou mountain coffee),750,"台南市東山區 (dongshan dist., tainan city)",750.0,750.0,750.0,228
-pu’er specialty coffee cupping center,1650,yunnan,1650.0,1650.0,1650.0,229
-erussi farmers group,1400,west nile,1400.0,1400.0,1400.0,230
-hacienda caracolillo,2800 ft,yauco region,853.44,853.44,853.44,231
-Unknown,1500-1600,huila,1500.0,1600.0,1550.0,232
-Unknown,1750,huila,1750.0,1750.0,1750.0,233
-naranjal,700,"huazalingo, hidalgo",700.0,700.0,700.0,234
-several farms,1300 mts,quetzaltenango,1300.0,1300.0,1300.0,235
-Unknown,1600 m.s.n.m,cauca,1600.0,1600.0,1600.0,236
-Unknown,1600 msnm,cundinamarca,1600.0,1600.0,1600.0,237
-Unknown,1700,meru county,1700.0,1700.0,1700.0,238
-santa matilde,1250,jinotega,1250.0,1250.0,1250.0,239
-Unknown,1350,west valley,1350.0,1350.0,1350.0,240
-Unknown,800++,thailand,800.0,800.0,800.0,241
-Unknown,1550-1700m,huila,1550.0,1700.0,1625.0,242
-finca las cuevitas,4451 metros,huehuetenango,1356.6648,1356.6648,1356.6648,243
-various,1750 msnm,huila supremo,1750.0,1750.0,1750.0,244
-Unknown,1800 - 2000,huila,1800.0,2000.0,1900.0,245
-finca quequesquez,1450,oriente,1450.0,1450.0,1450.0,246
-finca apoxtla,1100,xicotepec de juarez,1100.0,1100.0,1100.0,247
-"ijen highland, east java",1200-1600masl,east java,1200.0,1600.0,1400.0,248
-finca medina,5000,"sacatepequez, guatemala",1524.0,1524.0,1524.0,249
-finca santa clara,3702,huehuetenango,1128.3696,1128.3696,1128.3696,250
-menglian mang pan professional cooperative,1100,yunnan,1100.0,1100.0,1100.0,251
-exportadora café california,1200,"chiapas, jaltenango",1200.0,1200.0,1200.0,252
-lomi tasha,1700-2000m,yirgacheffe,1700.0,2000.0,1850.0,253
-bulamburi coffee farmers,1800,eastern,1800.0,1800.0,1800.0,254
-Unknown,1600,cundinamarca,1600.0,1600.0,1600.0,255
-dragon coffee 龍咖啡,1000 m,taichung xinshe 台中市新社區,1000.0,1000.0,1000.0,256
-Unknown,de 1.600 a 1.950 msnm,huila,1600.0,1950.0,1775.0,257
-ojo de agua,1000,xalapa,1000.0,1000.0,1000.0,258
-fazenda jericó,1100m,south of minas,1100.0,1100.0,1100.0,259
-Unknown,1799,cundinamarca,1799.0,1799.0,1799.0,260
-南投縣魚池鄉水社村中正路63-1號,Unknown,Unknown,Unknown,Unknown,Unknown,261
-Unknown,1850,tarrazu,1850.0,1850.0,1850.0,262
-Unknown,1000,pitalito,1000.0,1000.0,1000.0,263
-la esperanza,4000,oriente,1219.2,1219.2,1219.2,264
-ano family,1400m,nkure- meru,1400.0,1400.0,1400.0,265
-yusrin,1500,bener meriah,1500.0,1500.0,1500.0,266
-Unknown,1600 on average,oromia,1600.0,1600.0,1600.0,267
-Unknown,1850 msnm,huila,1850.0,1850.0,1850.0,268
-several,1400 mts,atitlan,1400.0,1400.0,1400.0,269
-Unknown,1650,cundinamarca,1650.0,1650.0,1650.0,270
-los hicaques,1350,comayagua,1350.0,1350.0,1350.0,271
-finca los barreales 1112lban,1170,xalapa,1170.0,1170.0,1170.0,272
-Unknown,940,chilón,940.0,940.0,940.0,273
-la corralera,1400,totutla,1400.0,1400.0,1400.0,274
-santo tomas pachuj,5000,atitlan,1524.0,1524.0,1524.0,275
-conquista / morito,4600 ft.,oriente,1402.08,1402.08,1402.08,276
-pancoer angkrek,1600,bondowoso,1600.0,1600.0,1600.0,277
-Unknown,439,huila,439.0,439.0,439.0,278
-日月潭文武莊園,Unknown,Unknown,Unknown,Unknown,Unknown,279
-bulago & buginyanya,1800,eastern,1800.0,1800.0,1800.0,280
-matsuzawa coffee,1200,thailand,1200.0,1200.0,1200.0,281
-la joya,1330,apaneca,1330.0,1330.0,1330.0,282
-cachoeira da grama farm,Unknown,vale da grama,Unknown,Unknown,Unknown,283
-ngila estate,1600,karatu northern,1600.0,1600.0,1600.0,284
-Unknown,1813,huila,1813.0,1813.0,1813.0,285
-finca medina,1500 msnm,antigua,1500.0,1500.0,1500.0,286
-el morito,4300,oriente,1310.64,1310.64,1310.64,287
-various,1450 msnm,cundinamarca,1450.0,1450.0,1450.0,288
-Unknown,900-1200mtr,nayarit,900.0,1200.0,1050.0,289
-various,1650,huila,1650.0,1650.0,1650.0,290
-Unknown,Unknown,guayata,Unknown,Unknown,Unknown,291
-rio verde,1227,south of minas,1227.0,1227.0,1227.0,292
-ecc,1200,chiapas,1200.0,1200.0,1200.0,293
-various,1650 msnm,santander,1650.0,1650.0,1650.0,294
-mondul coffee estate,1700,arusha,1700.0,1700.0,1700.0,295
-el pino,1100,veracruz,1100.0,1100.0,1100.0,296
-several,1100-1300,central valley,1100.0,1300.0,1200.0,297
-marre blanche,4200 feet,"thiotte, haiti",1280.16,1280.16,1280.16,298
-Unknown,1000 msnm,pitalito,1000.0,1000.0,1000.0,299
-sogestal kayanza,1880,kayanza,1880.0,1880.0,1880.0,300
-corta pico,1600,sierra madre occidental,1600.0,1600.0,1600.0,301
-coopellanobonito,Unknown,tarrazu,Unknown,Unknown,Unknown,302
-linda vista,2100,nuevo oriente,2100.0,2100.0,2100.0,303
-kawacom uganda ltd sipi farmers group,Unknown,"sipi, mt elgon",Unknown,Unknown,Unknown,304
-Unknown,Unknown,campos altos - cerrado,Unknown,Unknown,Unknown,305
-los charcos,1261,cuarenteño,1261.0,1261.0,1261.0,306
-以勒咖啡,800公尺,南投國姓,800.0,800.0,800.0,307
-Unknown,1483,eje cafetero,1483.0,1483.0,1483.0,308
-various,1300,chiapas,1300.0,1300.0,1300.0,309
-finca teocelo,Unknown,veracruz,Unknown,Unknown,Unknown,310
-mata larga,1000,fortín de las flores,1000.0,1000.0,1000.0,311
-água limpa,1200m,grama valley,1200.0,1200.0,1200.0,312
-Unknown,175,huila,175.0,175.0,175.0,313
-Unknown,de 1600 a 1950 msnm,la plata,1600.0,1950.0,1775.0,314
-Unknown,1600-1800msnm,huila,1600.0,1800.0,1700.0,315
-Unknown,1880 msnm,cauca,1880.0,1880.0,1880.0,316
-Unknown,1800 m.s.n.m,cundinamarca,1800.0,1800.0,1800.0,317
-beneficio el torreon,1901,oriente,1901.0,1901.0,1901.0,318
-mamsera,16.8,moshi,168.0,168.0,168.0,319
-apollo estate,1550,dala,1550.0,1550.0,1550.0,320
-bethel,1450,marcala,1450.0,1450.0,1450.0,321
-chen lin,1200,yunnan,1200.0,1200.0,1200.0,322
-yunnan success trade co.ltd,1600,dehong prefecture,1600.0,1600.0,1600.0,323
-agua caliente,1350,apaneca,1350.0,1350.0,1350.0,324
-finca medina,1500msnm,antigua,1500.0,1500.0,1500.0,325
-"la esperanza, margarita nuyes",1400-1900 psn,oriente,1400.0,1900.0,1650.0,326
-Unknown,approx.1'500 metres a.s.l.,kenya,1.0,500.0,250.5,327
-myanganyanga,1653,mbinga,1653.0,1653.0,1653.0,328
-kaptanya,1800,eastern,1800.0,1800.0,1800.0,329
-unkown,Unknown,Unknown,Unknown,Unknown,Unknown,330
-el cerron,1450 msnn,san marcos,1450.0,1450.0,1450.0,331
-nueva granada,5000 pies,san marcos,1524.0,1524.0,1524.0,332
-Unknown,1800,kilimanjaro,1800.0,1800.0,1800.0,333
-santa cecilia,1500,chiapas,1500.0,1500.0,1500.0,334
-tlapacoya,532,"tlanchinol, hidalgo",532.0,532.0,532.0,335
-la loma,1089,san bartolo tutotepec,1089.0,1089.0,1089.0,336
-el mirador,700,san isidro,700.0,700.0,700.0,337
-finca nueva linda,1380,la concordia,1380.0,1380.0,1380.0,338
-campo das flores,1000m,south of minas,1000.0,1000.0,1000.0,339
-são francisco da serra,950m,mogiana,950.0,950.0,950.0,340
-fazenda do lobo,1000m,south of minas,1000.0,1000.0,1000.0,341
-olhos d'agua,900m,south of minas,900.0,900.0,900.0,342
-tega and tula special coffee farm,1850 m,limu,1850.0,1850.0,1850.0,343
-capoeirinha,905,south of minas,905.0,905.0,905.0,344
-kan tou mountain coffee 崁頭山咖啡館,700-800m,"dongshan dist., tainan city 臺南市東山區",700.0,800.0,750.0,345
-Unknown,Unknown,chapadão de ferro (cerrado mineiro),Unknown,Unknown,Unknown,346
-alishan zou zhu yuan 阿里山鄒築園,1300 m,chiayi alishan 嘉義縣阿里山鄉,1300.0,1300.0,1300.0,347
-santa maria,1400,santa catarina juquila,1400.0,1400.0,1400.0,348
-Unknown,de 1.600 a 1.950 msn,huila,1600.0,1950.0,1775.0,349
-lintong nihuta,1300-1400m,dolok sanggul,1300.0,1400.0,1350.0,350
-fazenda capoeirnha,894,south of minas,894.0,894.0,894.0,351
-capoeirinha,872,south of minas,872.0,872.0,872.0,352
-isule farmers group,1473,"kasese, mt. rwenzori",1473.0,1473.0,1473.0,353
-ibanda farmers group,1645,"kasese, mt. rwenzori",1645.0,1645.0,1645.0,354
-apollo estate,1550,vietnam cau dat,1550.0,1550.0,1550.0,355
-el chile,1300 a 1800 metros sobre el nivel del mar,nuevo oriente,1300.0,1800.0,1550.0,356
-nueva granada,4500 pies,"el tumbador, san marcos",1371.6,1371.6,1371.6,357
-fazenda santo antonio,900-1100,high mogiana,900.0,1100.0,1000.0,358
-雅慕伊,1200,嘉義阿里山,1200.0,1200.0,1200.0,359
-kabeywa county,1800,kapchorwa,1800.0,1800.0,1800.0,360
-grupo medina (pequeños productores),1500 msnm,antigua,1500.0,1500.0,1500.0,361
-sertao farm,1250,sul de minas,1250.0,1250.0,1250.0,362
-Unknown,1600 - 1950 msnm,huila,1600.0,1950.0,1775.0,363
-vegas,750,coatepec,750.0,750.0,750.0,364
-finca la estancia,1200,atoyac de alvarez,1200.0,1200.0,1200.0,365
-las lomas,1200,coatepec,1200.0,1200.0,1200.0,366
-various,1500-1750 msnm,huila,1500.0,1750.0,1625.0,367
-la igualdad,4500,"la reforma, san marcos",1371.6,1371.6,1371.6,368
-Unknown,1600 - 1950 msnm,la plata,1600.0,1950.0,1775.0,369
-Unknown,1050 - 1850 msnm,cauca,1050.0,1850.0,1450.0,370
-santa rosa,Unknown,matagalpa,Unknown,Unknown,Unknown,371
-santa josefita,1350,apaneca,1350.0,1350.0,1350.0,372
-Unknown,1500,guayata,1500.0,1500.0,1500.0,373
--,2000,"blida,kercha,guji,oromia",2000.0,2000.0,2000.0,374
-佐佑品咖啡莊園,775,台東太麻里,775.0,775.0,775.0,375
-kalugmanan agri development corp.,1200 masl,"bukidnon, mindanao, philppines",1200.0,1200.0,1200.0,376
-"several, bukidnon, mindanao, philippines",1600 + meters above sea level,asia pacific,1600.0,1600.0,1600.0,377
-pinzoneno,1059,cuarenteño,1059.0,1059.0,1059.0,378
-fiech (mixed producers),1300 meters,chiapas,1300.0,1300.0,1300.0,379
-fazenda pantano,11000 metros,cerrado,11000.0,11000.0,11000.0,380
-nyapea coffee farmers,1400,west nile,1400.0,1400.0,1400.0,381
-finca los cerros y anexos,5440-5760 metros,huehuetenango,1658.112,1755.648,1706.88,382
-Unknown,1450,antioquia,1450.0,1450.0,1450.0,383
-el regalito,1248,petatlan,1248.0,1248.0,1248.0,384
-"apollo co., ltd.",1040m,don duong,1040.0,1040.0,1040.0,385
-el jabali,1400 m,la cumbre,1400.0,1400.0,1400.0,386
-el barbaro,1250,"el balsamo, quezaltepec",1250.0,1250.0,1250.0,387
-gicumbi,1900,gicumbi,1900.0,1900.0,1900.0,388
-apollo estate,1040,vietnam tutra,1040.0,1040.0,1040.0,389
-el papaturro,4000psn,oriente,1219.2,1219.2,1219.2,390
-santa fé 2,900,cerrado,900.0,900.0,900.0,391
-Unknown,1200-2000m,huila,1200.0,2000.0,1600.0,392
-"kampung keling, jumaraj, gurusinga, gongsol",1200 m,berastagi,1200.0,1200.0,1200.0,393
-Unknown,1800 mts,santander,1800.0,1800.0,1800.0,394
-burka coffee estate,1400 meter above sea level,arusha,1400.0,1400.0,1400.0,395
-Unknown,1550,la concordia,1550.0,1550.0,1550.0,396
-santa rosa,1250,veracruz,1250.0,1250.0,1250.0,397
-several farms,1200 mts,santa ana,1200.0,1200.0,1200.0,398
-providencia,1100,santa rosa,1100.0,1100.0,1100.0,399
-linda vista,1800,santa rosa,1800.0,1800.0,1800.0,400
-las merceditas,1700,san marcos,1700.0,1700.0,1700.0,401
-las delicias,4000,santa rosa,1219.2,1219.2,1219.2,402
-la esmeralda,4000,oriente,1219.2,1219.2,1219.2,403
-various,1500,sapan toraja,1500.0,1500.0,1500.0,404
-la esmeralda,518,el progreso,157.8864,157.8864,157.8864,405
-大鋤花間 (hoe vs. flower coffee farm),650,"台南市東山區( dongshan dist., tainan city)",650.0,650.0,650.0,406
-la montaña,1250,cacahuatique,1250.0,1250.0,1250.0,407
-man ganna estate,1100,yunnan,1100.0,1100.0,1100.0,408
-pu'er lingdu yunlin coffee co.ltd,1500,menglian,1500.0,1500.0,1500.0,409
-msese,1442 m,mzuzu,1442.0,1442.0,1442.0,410
-Unknown,1.65,huila,165.0,165.0,165.0,411
-several,1300,antioquia,1300.0,1300.0,1300.0,412
-san lorenzo,1550,chiapas,1550.0,1550.0,1550.0,413
-tlamatoca,1200,veracruz,1200.0,1200.0,1200.0,414
-Unknown,1200,atoyac de alvarez,1200.0,1200.0,1200.0,415
-supply chain ecom cca s.a.,1400 thru 1850,south huila,1400.0,1850.0,1625.0,416
-hacienda la esmeralda,1100,boquete,1100.0,1100.0,1100.0,417
-capoeirinha,890,south of minas,890.0,890.0,890.0,418
-savan coffee bean,1300,"paksong,laos",1300.0,1300.0,1300.0,419
-el barbaro,1200,"el balsamo, quezaltepec",1200.0,1200.0,1200.0,420
-gabriel bernard rivas ross,1300,veracruz,1300.0,1300.0,1300.0,421
-santa maria,Unknown,monte carmelo,Unknown,Unknown,Unknown,422
-nitin,1700,karatu arusha,1700.0,1700.0,1700.0,423
-ampcg,1550,mbinga,1550.0,1550.0,1550.0,424
-伊娜咖啡莊園,1200公尺,嘉義阿里山,1200.0,1200.0,1200.0,425
-los llanitos,1296,la yerba,1296.0,1296.0,1296.0,426
-bugisu shamba,1400- 1900,mt elgon,1400.0,1900.0,1650.0,427
-zhuo wu shan coffee 卓武山咖啡農場,1240 m,chiayi alishan 嘉義縣阿里山鄉,1240.0,1240.0,1240.0,428
-m10,1500,phahi,1500.0,1500.0,1500.0,429
-finca monte grande,1100,Unknown,1100.0,1100.0,1100.0,430
-finca castillos,950,mahuixtlan,950.0,950.0,950.0,431
-la canada,1800 meters (5900,52 narino (exact location: mattituy; municipal region: florida code 381,1800.0,5900.0,3850.0,432
-林園咖啡 lin yuan coffee,1050,國姓鄉 guoshing township,1050.0,1050.0,1050.0,433
-Unknown,Unknown,south of minas,Unknown,Unknown,Unknown,434
-台中市新社區崑山里,200 m,changhua baguashan 彰化市八卦山,200.0,200.0,200.0,435
-small holders farmer,1200-1300m dpl,aceh,1200.0,1300.0,1250.0,436
-Unknown,1400-1500 m,chiangrai,1400.0,1500.0,1450.0,437
-lubanda amcos,1317,ikand village,1317.0,1317.0,1317.0,438
-mt.elgon sipi falls cheema,1400-1900,eastern,1400.0,1900.0,1650.0,439
-Unknown,Unknown,veracruz,Unknown,Unknown,Unknown,440
-various,1750 msnm,huila,1750.0,1750.0,1750.0,441
-jamaica,1250,oaxaca,1250.0,1250.0,1250.0,442
-la timbuchera; el ocotito y la hortaliza,1150,colima,1150.0,1150.0,1150.0,443
-fazenda chamusca,900-1050m,south of minas,900.0,1050.0,975.0,444
-various,1250,bali,1250.0,1250.0,1250.0,445
-las cuchillas,1400,comayagua,1400.0,1400.0,1400.0,446
-shah plantation,1600,karatu arusha,1600.0,1600.0,1600.0,447
-amkeni,Unknown,moshi,Unknown,Unknown,Unknown,448
-finca san el retiro,1500-1700m,chiapas,1500.0,1700.0,1600.0,449
-la esperanza y anexos,4300,oriente,1310.64,1310.64,1310.64,450
-la pagua,1679,san bartolo tutotepec,1679.0,1679.0,1679.0,451
-caltuchoco,1100,zapotitlan de mendez,1100.0,1100.0,1100.0,452
-santa cruz - pante don manuel,1650,la concordia,1650.0,1650.0,1650.0,453
-various,Unknown,oriente,Unknown,Unknown,Unknown,454
-Unknown,1600,huehuetenango,1600.0,1600.0,1600.0,455
-carrillo cooperativa,1500,"comayagua, honduras",1500.0,1500.0,1500.0,456
-providencia,Unknown,santa rosa,Unknown,Unknown,Unknown,457
-Unknown,1600,guayata,1600.0,1600.0,1600.0,458
-menglian gao sanlin coffee factory,1600,yunnan,1600.0,1600.0,1600.0,459
-nguruma,2285,arusha meru,2285.0,2285.0,2285.0,460
-fazenda serra negra,1000m,south of minas,1000.0,1000.0,1000.0,461
-Unknown,huanuco,peru,Unknown,Unknown,Unknown,462
-cipresal,1560,chiapas,1560.0,1560.0,1560.0,463
-pante san pedro,1400,san pedro cotzilnam,1400.0,1400.0,1400.0,464
-"cafetal el equimite, rancho agroecológico",1300,coatepec,1300.0,1300.0,1300.0,465
-los barreales 1112lbcat_s110312,1170,xalapa,1170.0,1170.0,1170.0,466
-corral del diablo lote 1,1300,zihuatanejo de azueta,1300.0,1300.0,1300.0,467
-cañada fria,1350,veracruz,1350.0,1350.0,1350.0,468
-finca nextlalpa,1150,xicotepec de juarez,1150.0,1150.0,1150.0,469
-santa rosa,1250,progreso santa rosa teocelo,1250.0,1250.0,1250.0,470
-fln mirador,1450,fln mirador,1450.0,1450.0,1450.0,471
-santa mariana,Unknown,south of minas,Unknown,Unknown,Unknown,472
-Unknown,1750 m.s.n.m,huila,1750.0,1750.0,1750.0,473
-los hicaques,1396,comayagua,1396.0,1396.0,1396.0,474
-fazenda são pedro,982,cerrado,982.0,982.0,982.0,475
-Unknown,Unknown,cerrado,Unknown,Unknown,Unknown,476
-rio jorco,1550,tarrazu,1550.0,1550.0,1550.0,477
-yun lan coffee co. ltd,1580,xishuangbanna prefecture,1580.0,1580.0,1580.0,478
-rio verde,1268,south of minas,1268.0,1268.0,1268.0,479
-finca loma linda y anexo,5500 metros,huehuetenango,1676.4,1676.4,1676.4,480
-utchisi mountain,1450 m,mzuzu,1450.0,1450.0,1450.0,481
-rio verde,1100,south of minas,1100.0,1100.0,1100.0,482
-guo cun nong yuan 國村農園,200 m,changhua baguashan 彰化市八卦山,200.0,200.0,200.0,483
-yu jin gui 玉金櫃咖啡,600 m,taichung xinshe 台中市新社區,600.0,600.0,600.0,484
-santa teresa,1300,"la concordia, chiapas",1300.0,1300.0,1300.0,485
-Unknown,Unknown,central valley,Unknown,Unknown,Unknown,486
-finca el morito,5500-6000 psnm,jalapa,1676.4,1828.8,1752.6,487
-tepemalacax,441,"jaltocan, hidalgo",441.0,441.0,441.0,488
-finca los barreales 1112lbga7250412,1170,veracruz,1170.0,1170.0,1170.0,489
-sitío santa luzia,1100m,grama valley,1100.0,1100.0,1100.0,490
-cafetal santa maria,1200 a 1400,santa catarina juquila,1200.0,1400.0,1300.0,491
-café citrus,950m,south of minas,950.0,950.0,950.0,492
-fazendas klem ltda,1100,brazil matas de minas,1100.0,1100.0,1100.0,493
-眉泉莊園        ,Unknown,Unknown,Unknown,Unknown,Unknown,494
-linda vista,1450,nuevo oriente,1450.0,1450.0,1450.0,495
-zapato de mico,1500,apaneca,1500.0,1500.0,1500.0,496
-bethel,1350,marcala,1350.0,1350.0,1350.0,497
-kachere,1180m,mzuzu,1180.0,1180.0,1180.0,498
-guo xing ka fei wang 國姓咖啡王咖啡莊園,650 m,nantou,650.0,650.0,650.0,499
-finca huehuetecpan,1338,veracruz,1338.0,1338.0,1338.0,500
-omicuatla,533,"calnali, hidalgo",533.0,533.0,533.0,501
-finca medina,4563,antigua,1390.8024,1390.8024,1390.8024,502
-los barreales 1112lbgr7230412,1170,veracruz,1170.0,1170.0,1170.0,503
-jamaica,1250,juquila,1250.0,1250.0,1250.0,504
-chilcuatla,1100,veracruz,1100.0,1100.0,1100.0,505
-comunidad de canoas,900,canoas,900.0,900.0,900.0,506
-caxambu,Unknown,Unknown,Unknown,Unknown,Unknown,507
-Unknown,Unknown,cauca,Unknown,Unknown,Unknown,508
-fazenda capoeirnha,934,south of minas,934.0,934.0,934.0,509
-el brigadum - la coronela,1000,jinotega,1000.0,1000.0,1000.0,510
-langiro farm group,1500-1800,ruvuma,1500.0,1800.0,1650.0,511
-Unknown,1600,northern,1600.0,1600.0,1600.0,512
-blue lake,1500,atitlan,1500.0,1500.0,1500.0,513
-ilomba 2,1700,"ilomba vilage, mbozi",1700.0,1700.0,1700.0,514
-Unknown,1200-1600m,"la concordia, chiapas",1200.0,1600.0,1400.0,515
-song yue coffee 嵩岳咖啡,1200 m,yunlin 雲林縣石壁,1200.0,1200.0,1200.0,516
-kan tou mountain coffee 崁頭山咖啡館,800 m,"dongshan dist., tainan city 臺南市東山區",800.0,800.0,800.0,517
-el nanchi,1144,san bartolo tutotepec,1144.0,1144.0,1144.0,518
-Unknown,1350,oriente,1350.0,1350.0,1350.0,519
-las truchas,1000,altotonga,1000.0,1000.0,1000.0,520
-"la calera, barranca de la leona, el nogal",1200,colima,1200.0,1200.0,1200.0,521
-various,1300,aceh gayo,1300.0,1300.0,1300.0,522
-el patalillo,1200-1400 masl,tres rios,1200.0,1400.0,1300.0,523
-ampcg,1500,kilimanjaro,1500.0,1500.0,1500.0,524
-ngorogoro convenant estate,1500 - 1700,ngorogoro,1500.0,1700.0,1600.0,525
-cafetalera aquiares,1.3,turrialba,13.0,13.0,13.0,526
-Unknown,1800,tapachula,1800.0,1800.0,1800.0,527
-bola de oro,1250,coatepec,1250.0,1250.0,1250.0,528
-tomatlancillo,1250,veracruz,1250.0,1250.0,1250.0,529
-Unknown,1600 msnm,cauca,1600.0,1600.0,1600.0,530
-las moras,1600,el paraíso,1600.0,1600.0,1600.0,531
-las moras,1600,guinope el paraíso,1600.0,1600.0,1600.0,532
-capoeirinha,944,south of minas,944.0,944.0,944.0,533
-family farm,1500-1800,kilimanjaro,1500.0,1800.0,1650.0,534
-club green,1250m,lao p.d.r.,1250.0,1250.0,1250.0,535
-finca estate,1300- 1400,meru,1300.0,1400.0,1350.0,536
-chikali,2500m,mzuzu,2500.0,2500.0,2500.0,537
-"you siang coffee farmtainan, taiwan 台灣台南優香咖啡",600m,"dongshan dist., tainan city 臺南市東山區",600.0,600.0,600.0,538
-bsr,1400 m.s.n.m.,occidental,1400.0,1400.0,1400.0,539
-gao chun fang 高醇坊,600-700 m,"dongshan dist., tainan city 臺南市東山區",600.0,700.0,650.0,540
-la ceiba,940,coscomatepec,940.0,940.0,940.0,541
-são josé da lagoa,1050m,cerrado,1050.0,1050.0,1050.0,542
-el faro,Unknown,san marcos,Unknown,Unknown,Unknown,543
-santa mariana/são vicente,950m,south of minas,950.0,950.0,950.0,544
-la esperanza,1901,oriente,1901.0,1901.0,1901.0,545
-santa bárbara,1020,monte carmelo,1020.0,1020.0,1020.0,546
-la esperanza,1250,"el balsamo, quezaltepec",1250.0,1250.0,1250.0,547
-las cebollas y anexos,1300 a 1800 mtrs. a nivel del mar,nuevo oriente,1300.0,1800.0,1550.0,548
-mcomafa farm no1155gr,1877,mbeya,1877.0,1877.0,1877.0,549
-mubuyu munali,1000-1500m,mubuyu estate,1000.0,1500.0,1250.0,550
-platanal,981,"chapulhuacan, hidalgo",981.0,981.0,981.0,551
-texpanco,690,"huazalingo, hidalgo",690.0,690.0,690.0,552
-la laja,1650,veracruz,1650.0,1650.0,1650.0,553
-sitío corrego da olaria/são caetano,1100m,grama valley,1100.0,1100.0,1100.0,554
-Unknown,1600 m.s.n.m,cundinamarca,1600.0,1600.0,1600.0,555
-la esmeralda,518,oriente,157.8864,157.8864,157.8864,556
-helena,973,monte carmelo,973.0,973.0,973.0,557
-mudar,1250,bali,1250.0,1250.0,1250.0,558
-wat-ka-bu,4001,ywar ngan,4001.0,4001.0,4001.0,559
-rancho bonito,1350-1500,chiapas,1350.0,1500.0,1425.0,560
-cerro bueno,1400 msnm,marcala,1400.0,1400.0,1400.0,561
-gao chun fang 高醇坊,700m,"dongshan dist., tainan city 臺南市東山區",700.0,700.0,700.0,562
-dozen small farmer,1300m,lington nihuta,1300.0,1300.0,1300.0,563
-kakoma,1556m,kakoma,1556.0,1556.0,1556.0,564
-gran manzana y el aguacate,1350,comayagua,1350.0,1350.0,1350.0,565
-various,1550 meters,"siltepec el triunfo, chiapas, mexico",1550.0,1550.0,1550.0,566
-Unknown,de 1.600 a 1950 msnm,huila,1600.0,1950.0,1775.0,567
-finca muxbal,1500,veracruz,1500.0,1500.0,1500.0,568
-el deseo,1250,coatepec,1250.0,1250.0,1250.0,569
-cianorte,900-950m,cerrado,900.0,950.0,925.0,570
-Unknown,1600-1800 msnm,huila,1600.0,1800.0,1700.0,571
-apollo estate,1040,vietnam,1040.0,1040.0,1040.0,572
-los magueyes,774,"tenango de doria, hidalgo",774.0,774.0,774.0,573
-finca tepictla,1250,tepictla,1250.0,1250.0,1250.0,574
-"arroyo triste, arroyo triste, san jose vista hermosa",1100,oaxaca,1100.0,1100.0,1100.0,575
-santa cruz - pante doña graciela,1650,la concordia,1650.0,1650.0,1650.0,576
-la esmeralda,4000,santa rosa,1219.2,1219.2,1219.2,577
-ngima,1800,mbinga,1800.0,1800.0,1800.0,578
-santa matilde,Unknown,jinotega,Unknown,Unknown,Unknown,579
-multiple,1200-1800m,mbinga,1200.0,1800.0,1500.0,580
-ilomba 1,1700,"ilomba vilage, mbozi",1700.0,1700.0,1700.0,581
-rio verde,1260,south of minas,1260.0,1260.0,1260.0,582
-Unknown,Unknown,bener meriah,Unknown,Unknown,Unknown,583
-gran manzana y el aguacate,1400,comayagua,1400.0,1400.0,1400.0,584
-mu he zi coffee 木盒子咖啡園,150 m,changhua baguashan 彰化市八卦山,150.0,150.0,150.0,585
-guo xin ka fei 國昕咖啡,750 m,nantou,750.0,750.0,750.0,586
-union ramal santa cruz,1400,"la concordia, chiapas",1400.0,1400.0,1400.0,587
-finca cafetalera la suiza,1650,tuxtla gutierrez,1650.0,1650.0,1650.0,588
-Unknown,1400,yajalon,1400.0,1400.0,1400.0,589
-ucipa santa catarina,1200,veracruz,1200.0,1200.0,1200.0,590
-finca nueva linda,1400,"la concordia, chiapas",1400.0,1400.0,1400.0,591
-sacún palma,940,"sacún palma, municipio de chilón, chiapas",940.0,940.0,940.0,592
-various,1200,western region,1200.0,1200.0,1200.0,593
-la esperanza,190164,huehuetenango,190164.0,190164.0,190164.0,594
-baishengcun coffee 百勝村咖啡莊園,800,natou county,800.0,800.0,800.0,595
-acacia hills,1800,"oldeani , mongola",1800.0,1800.0,1800.0,596
-kavuzi,1100m,mzuzu,1100.0,1100.0,1100.0,597
-jacob's estate 雅谷咖啡,850 m,natou county,850.0,850.0,850.0,598
-las nubes - pante don jaime,1600,la concordia,1600.0,1600.0,1600.0,599
-santa cruz - pante don jaime,1650,la concordia,1650.0,1650.0,1650.0,600
-Unknown,4500-6000 feet,tarrazu,1371.6,1828.8,1600.2,601
-finca las marías,1100,jalapa,1100.0,1100.0,1100.0,602
-las delicias,Unknown,santa rosa,Unknown,Unknown,Unknown,603
-谷泉咖啡莊園,160-200m,古坑鄉荷包村尖山坑60號,160.0,200.0,180.0,604
-mixed,4000 ft,ywar ngan township,1219.2,1219.2,1219.2,605
-several,1200 msm,occidental,1200.0,1200.0,1200.0,606
-chinongo,1599m,mzuzu,1599.0,1599.0,1599.0,607
-various,4000 psnm,oriente,1219.2,1219.2,1219.2,608
-good mood coffee 馨晴咖啡        ,900 m,natou county,900.0,900.0,900.0,609
-pereira estate coffee,1200,sul de minas,1200.0,1200.0,1200.0,610
-mixed,400-1250m,"dondon, haiti",400.0,1250.0,825.0,611
-xu yuan zhang 徐源漳,600 m,taichung xinshe 台中市新社區,600.0,600.0,600.0,612
-nueva linda,1150,"la concordia, chiapas",1150.0,1150.0,1150.0,613
-productor independiente guadalupe victoria,1600,amatenango de la frontera,1600.0,1600.0,1600.0,614
-santa maria temaxcalapa,1100,temaxcalapa,1100.0,1100.0,1100.0,615
-canoa manzanillo,1000,manzanillo,1000.0,1000.0,1000.0,616
-hamburgo 7 arroyos,1250,tapachula,1250.0,1250.0,1250.0,617
-el romance azul,1100,atoyac de alvarez,1100.0,1100.0,1100.0,618
-"ijen highland, east java",1200-1600masl,ijen,1200.0,1600.0,1400.0,619
-sertao,1.25,sul de minas,125.0,125.0,125.0,620
-chiquimulja / alpha cafe / senfro,Unknown,oriente,Unknown,Unknown,Unknown,621
-Unknown,1050 - 1850,cauca,1050.0,1850.0,1450.0,622
-cafetal,1100,veracruz,1100.0,1100.0,1100.0,623
-nueva granada,4500,san marcos,1371.6,1371.6,1371.6,624
-fazenda rio brilhante,1100,cerrado,1100.0,1100.0,1100.0,625
-山彎有機咖啡農場,110公尺,苗栗三灣,110.0,110.0,110.0,626
-chimpumba,1422,mzuzu,1422.0,1422.0,1422.0,627
-santo tomas pachuj,1550 mts.,"san lucas toliman, solola",1550.0,1550.0,1550.0,628
-various,1550 meter,siltepec el triunfo,1550.0,1550.0,1550.0,629
-Unknown,Unknown,puno,Unknown,Unknown,Unknown,630
-palantla,763,"huazalingo, hidalgo",763.0,763.0,763.0,631
-los brujos,1100,"coatepec, coatepec",1100.0,1100.0,1100.0,632
-Unknown,1130,veracruz,1130.0,1130.0,1130.0,633
-fazenda sacramento,1100,cerrado,1100.0,1100.0,1100.0,634
-sertao farm,1200,mantiqueira de minas,1200.0,1200.0,1200.0,635
-bacofa,1400 masl,"davao city, region 11",1400.0,1400.0,1400.0,636
-usingini farm,1200m,mzuzu,1200.0,1200.0,1200.0,637
-el cerron,1450 msnm,san marcos,1450.0,1450.0,1450.0,638
-cruz verde,1000,veracruz,1000.0,1000.0,1000.0,639
-fazendas klem ltda,1100,matas de minas        ,1100.0,1100.0,1100.0,640
-jing jing café 晶晶坊青山咖啡教室,680,"dongshan dist., tainan city 台南市東山區",680.0,680.0,680.0,641
-cafetales santa matilde,1100,jinotega,1100.0,1100.0,1100.0,642
-cerro bueno,1400 msn,marcala,1400.0,1400.0,1400.0,643
-el injerto s.a.,1700m,huehuetenango,1700.0,1700.0,1700.0,644
-shangrilla estate,1700,karatu ngorogoro,1700.0,1700.0,1700.0,645
-jia jia coffee 佳佳咖啡莊,650 m,nantou,650.0,650.0,650.0,646
-finca medina,5000 f,"sacatepequez, guatemala",1524.0,1524.0,1524.0,647
-finca chanjul,1500,motozintla,1500.0,1500.0,1500.0,648
-las promesas de san blass,1200,"dipilto, nueva segovia",1200.0,1200.0,1200.0,649
-mviwambi coffee farmers,100/2000,"ruvuma, mbinga",100.0,2000.0,1050.0,650
-los hicaques,1450 mals,central region,1450.0,1450.0,1450.0,651
-"irisan, baguio",1200 masl,corillera administrative,1200.0,1200.0,1200.0,652
-makoka valley estate,990-1000m,southern- zomba,990.0,1000.0,995.0,653
-juliana,Unknown,monte carmelo,Unknown,Unknown,Unknown,654
-fazenda são sebastião,1000m,south of minas,1000.0,1000.0,1000.0,655
-Unknown,0,sidamo,Unknown,Unknown,Unknown,656
-fazenda são josé mirante,695,alta paulista (sao paulo),695.0,695.0,695.0,657
-cafetales santa matilde,1100 m.o.s.l.,jinotega,1100.0,1100.0,1100.0,658
-Unknown,5600 feet,central america,1706.88,1706.88,1706.88,659
-mwalyego amcos,1456,"iwala village, mbeya rural",1456.0,1456.0,1456.0,660
-santa laura,1500 mts,naranjo,1500.0,1500.0,1500.0,661
-"san fernando, chiapas",1650,san fernando,1650.0,1650.0,1650.0,662
-cafetal sinai,1300,santo reyes nopala,1300.0,1300.0,1300.0,663
-Unknown,1642,santa maria sitepec,1642.0,1642.0,1642.0,664
-el desmoronado,1200,talpa de allende,1200.0,1200.0,1200.0,665
-cachoeira da grama farm,Unknown,grama valley,Unknown,Unknown,Unknown,666
-santa josefita,1450,apaneca,1450.0,1450.0,1450.0,667
-jing jing café 晶晶坊青山咖啡教室,758m,"dongshan dist., tainan city 臺南市東山區",758.0,758.0,758.0,668
-el cerron,1350 snn,san marcos,1350.0,1350.0,1350.0,669
-rural cooperative society,1525 m,arusha,1525.0,1525.0,1525.0,670
-kapchorwa,1700,eastern,1700.0,1700.0,1700.0,671
-taiwan hao ka 台灣好咖莊園,1100 m,nantou,1100.0,1100.0,1100.0,672
-doi tung development project,800++,thailand,800.0,800.0,800.0,673
-finca el gavilancillo,950,"motozintla, chiapas",950.0,950.0,950.0,674
-Unknown,1100,adolfo lopez mateos,1100.0,1100.0,1100.0,675
-八杞莊園,200,taiwan,200.0,200.0,200.0,676
-thiririka/maara,1600,kiambu,1600.0,1600.0,1600.0,677
-finca monte azúl,1100,veracruz,1100.0,1100.0,1100.0,678
-sithar coffee farm,3500 ft,pyinoolwin,1066.8,1066.8,1066.8,679
-karatu estate,1700,"manyara, karatu",1700.0,1700.0,1700.0,680
-張文進莊園,550公尺,台中新社,550.0,550.0,550.0,681
-Unknown,between 700 and 1400 meters,matagalpa,700.0,1400.0,1050.0,682
-bi yun si shi yi 碧云四十一咖啡坊,900 m,taichung taiping 台中市太平區,900.0,900.0,900.0,683
-bai he lin coffee 白鶴林咖啡莊園,688 m,nantou,688.0,688.0,688.0,684
-heng lu coffee 橫鹿咖啡,300 m,new taipei zhonghe 新北市中和區,300.0,300.0,300.0,685
-"olotlan, el plan, criollo garnica",1186,ixhuatlan del cafe,1186.0,1186.0,1186.0,686
-several,1200,orient,1200.0,1200.0,1200.0,687
-la victoria pante nubes,1210,motozintla,1210.0,1210.0,1210.0,688
-finca santa clara,1100,oaxaca,1100.0,1100.0,1100.0,689
-selva negra,100,veracruz,100.0,100.0,100.0,690
-Unknown,1800 m.s.n.m,huila,1800.0,1800.0,1800.0,691
-castelhana farm,Unknown,monte carmelo,Unknown,Unknown,Unknown,692
-myaing,3825,ywar ngan,3825.0,3825.0,3825.0,693
-cafetales santa matilde,1100.00 mosl,jinotega,110000.0,110000.0,110000.0,694
-juan damaso,1450 masl,"siguatepeque, comayagua",1450.0,1450.0,1450.0,695
-elida estate,1680m,boquete,1680.0,1680.0,1680.0,696
-san josé y el portillo,1200,oaxaca,1200.0,1200.0,1200.0,697
-2000 farms,~1000 meters,haiti,1000.0,1000.0,1000.0,698
-胖胖糖,Unknown,taiwan,Unknown,Unknown,Unknown,699
-darmawi,1200-1500,sumatra brastagi,1200.0,1500.0,1350.0,700
-gamboa,1.85,tarrazu,185.0,185.0,185.0,701
-"el desmoronado, talpan de allende jalisco",1200,"el desmoronado, talpan de allende jalisco",1200.0,1200.0,1200.0,702
-santo tomas pachuj,1550,"san lucas toliman, solola",1550.0,1550.0,1550.0,703
-leticia farm,Unknown,monte carmelo,Unknown,Unknown,Unknown,704
-los saltarines,Unknown,nueva segovia,Unknown,Unknown,Unknown,705
-burka coffee estates,1400,arusha,1400.0,1400.0,1400.0,706
-finca el naranjal,4540 metros,huehuetenango,1383.792,1383.792,1383.792,707
-王秋金,50,taiwan,50.0,50.0,50.0,708
-el guayabo,1500,santa rosa,1500.0,1500.0,1500.0,709
-la bendicion,1650,ocotepeque,1650.0,1650.0,1650.0,710
-case noyale ltd,280,chamarel (south west),280.0,280.0,280.0,711
-cachoeira da grama farm,1250 m,vale da grama,1250.0,1250.0,1250.0,712
-mixed,3800,pyin oo lwin,3800.0,3800.0,3800.0,713
-various,4000 p.s.n.m.,oriente,1219.2,1219.2,1219.2,714
-pereira estate coffee,1250,mantiqueira de minas,1250.0,1250.0,1250.0,715
-barranca de las flores,6100 metros,huehuetenango,1859.28,1859.28,1859.28,716
-peña negra,1450,zaragoza itundujia,1450.0,1450.0,1450.0,717
-春風咖啡,600公尺,南投國姓,600.0,600.0,600.0,718
-finca la fany,1450m,"department of ahuachapan, municipality of apanecallamatepec mountain",1450.0,1450.0,1450.0,719
-alicia's farm,1700,yunnan,1700.0,1700.0,1700.0,720
-guoxing farm coffee 國姓農場咖啡        ,600 m,nantou,600.0,600.0,600.0,721
-copalita,1050,pochutla,1050.0,1050.0,1050.0,722
-Unknown,1700,mumirwa,1700.0,1700.0,1700.0,723
-delfina farm,1700,mkuu rombo,1700.0,1700.0,1700.0,724
-kongoni estate,Unknown,arusha,Unknown,Unknown,Unknown,725
-tokoffee莊園,600 m,taichung xinshe 台中市新社區,600.0,600.0,600.0,726
-la castellana,4300,oriente,1310.64,1310.64,1310.64,727
-Unknown,Unknown,kelem welega,Unknown,Unknown,Unknown,728
-são rafael_ ra/ras certified,995,cerrado - monte carmelo - minas gerais,995.0,995.0,995.0,729
-las moras,1400,comayagua,1400.0,1400.0,1400.0,730
-cortapico,1600,sierra madre occidental,1600.0,1600.0,1600.0,731
-waylead farms,3000 ft,"yauk sauk, shan state",914.4,914.4,914.4,732
-thein kone,4287,ywar ngan,4287.0,4287.0,4287.0,733
-finca el consuelo,900 m.s.n.m.,matagalpa,900.0,900.0,900.0,734
-weng hui ling 翁惠鈴,700 m,chiayi fanlu嘉義縣番路鄉,700.0,700.0,700.0,735
-several,1400,oriente,1400.0,1400.0,1400.0,736
-mirador,808,"calnali, hidalgo",808.0,808.0,808.0,737
-los mesones,1100 - 1275 mts,jinotega,1100.0,1275.0,1187.5,738
-"la orduña, coatepec, veracruz",1250,coatepec,1250.0,1250.0,1250.0,739
-el carrizo,1550,zaragoza itundujia,1550.0,1550.0,1550.0,740
-el aguacate,1000,veracruz,1000.0,1000.0,1000.0,741
-Unknown,1100,mantiqueira de minas,1100.0,1100.0,1100.0,742
-好自在咖啡莊園,850公尺,苗栗泰安,850.0,850.0,850.0,743
-sheng he shang pin coffee 聖荷上品咖啡坊,200 m,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,200.0,200.0,200.0,744
-a shu she coffee 阿束社咖啡莊園,150 m,changhua baguashan 彰化市八卦山,150.0,150.0,150.0,745
-wu kun shan coffee 吳焜山咖啡園,250 m,changhua baguashan 彰化市八卦山,250.0,250.0,250.0,746
-el tabaco,1300,zaragoza itundujia,1300.0,1300.0,1300.0,747
-Unknown,1300,escuitla,1300.0,1300.0,1300.0,748
-doe kwin,3845,"doe kwin, pyin oo lwin",3845.0,3845.0,3845.0,749
-various,1300 to 1500 meters,"sierra fraylesca, chiapas",1300.0,1500.0,1400.0,750
-zhang li hong coffee 張立宏咖啡莊園,250 m,changhua baguashan 彰化市八卦山,250.0,250.0,250.0,751
-"santa clara, california y camila",1100,san miguel del puerto,1100.0,1100.0,1100.0,752
-"phone number | 0911-51-08-01, email | at",Unknown,limu,Unknown,Unknown,Unknown,753
-finca buenos aires,1100,"motozintla, chiapas",1100.0,1100.0,1100.0,754
-rancho san francisco iii,1100,veracruz,1100.0,1100.0,1100.0,755
-finca monte grande,1100,jaltenango,1100.0,1100.0,1100.0,756
-finca la orduña,1250,coatepec,1250.0,1250.0,1250.0,757
-finca huehuetecpan,1250,veracruz,1250.0,1250.0,1250.0,758
-yara estate / benvar estate,1500,kiambu,1500.0,1500.0,1500.0,759
-asociación aldea global jinotega,1250,jinotega,1250.0,1250.0,1250.0,760
-la cuchilla,1300,veracruz,1300.0,1300.0,1300.0,761
-la esperanza,1901.64,oriente,190164.0,190164.0,190164.0,762
-ka-vulungan coffee estate,800-1200,"taiwu township , pingtung county 屏東縣泰武鄉",800.0,1200.0,1000.0,763
-baijiada coffee farm佰加達咖啡莊園,500-700m,"baihe dist., tainan city 臺南市白河區",500.0,700.0,600.0,764
-Unknown,Unknown,huanuco,Unknown,Unknown,Unknown,765
-several,1100,brunca,1100.0,1100.0,1100.0,766
-comonyaj noptic s de ss,1022,chiapas,1022.0,1022.0,1022.0,767
-el vergel,1050,pochutla,1050.0,1050.0,1050.0,768
-genuine antigua medina,Unknown,antigua,Unknown,Unknown,Unknown,769
-finca monte grande,1100,tuxtla gutierrez,1100.0,1100.0,1100.0,770
-el encinal,975,"tenango de doria, hidalgo",975.0,975.0,975.0,771
-consolapa,1264,"coatepec, coatepec",1264.0,1264.0,1264.0,772
-tepetzingo,1250,tepetzingo,1250.0,1250.0,1250.0,773
-la igualdad,3500 - 5200 feet,"chuva, san marcos",1066.8,1584.96,1325.88,774
-las nubes,1050,jinotega,1050.0,1050.0,1050.0,775
-su-zhen huang 黃素真,700m公尺,nantou,700.0,700.0,700.0,776
-Unknown,1550 msnm,cundinamarca,1550.0,1550.0,1550.0,777
-casa blanca,1100,"coatepec, coatepec",1100.0,1100.0,1100.0,778
-el papaturro,4000 p.s.n.m.,oriente,1219.2,1219.2,1219.2,779
-cre-leg l-4,800,xicotepec de juarez,800.0,800.0,800.0,780
-cnra station of divo,200,cnra station of divo,200.0,200.0,200.0,781
-several,1200,pereira,1200.0,1200.0,1200.0,782
-el encanto,950,zentla,950.0,950.0,950.0,783
-la gloria,750,zentla,750.0,750.0,750.0,784
-conquista / morito,Unknown,oriente,Unknown,Unknown,Unknown,785
-baishencun coffee farm百勝村咖啡莊園,850,natou county,850.0,850.0,850.0,786
-chapultepec,1320,occidente,1320.0,1320.0,1320.0,787
-Unknown,Unknown,san rafael,Unknown,Unknown,Unknown,788
-la tejeria,1550,zaragoza itundujia,1550.0,1550.0,1550.0,789
-el delirio,1450,yajalon,1450.0,1450.0,1450.0,790
-various,1200 m,"pluma hidalogo, oaxaca",1200.0,1200.0,1200.0,791
-huanacaxtle,1500,zaragoza itundujia,1500.0,1500.0,1500.0,792
-las palmas,1100,tlacuilotepec,1100.0,1100.0,1100.0,793
-various,4000,oriente,1219.2,1219.2,1219.2,794
-various,1350,intibuca,1350.0,1350.0,1350.0,795
-Unknown,1400,san ignacio,1400.0,1400.0,1400.0,796
-Unknown,1300,"iliatenco, guerrero",1300.0,1300.0,1300.0,797
-el sauce,1550,zaragoza itundujia,1550.0,1550.0,1550.0,798
-pico del oro,12oo,amatenango de la frontera,12.0,12.0,12.0,799
-la pandora,1400,zaragoza itundujia,1400.0,1400.0,1400.0,800
-"la patrona, el trebol, la cadena",1320,veracruz,1320.0,1320.0,1320.0,801
-el tesoro,1250,veracruz,1250.0,1250.0,1250.0,802
-los encinos,1350,"ohuapan, tlaltetela",1350.0,1350.0,1350.0,803
-alicia's farm,1850,yunnan,1850.0,1850.0,1850.0,804
-los pinos,1150,yecuatla,1150.0,1150.0,1150.0,805
-kan tou mountain coffee 崁頭山咖啡館,800m,"dongshan dist., tainan city 臺南市東山區",800.0,800.0,800.0,806
-grapos el porvenir,1400,tapachula,1400.0,1400.0,1400.0,807
-cofradia,1300,cofradia de suchitlan,1300.0,1300.0,1300.0,808
-kona farms,Unknown,kona,Unknown,Unknown,Unknown,809
-various,1600 meters,"sierra, chiapas",1600.0,1600.0,1600.0,810
-finca sego,1400,villa talea de castro,1400.0,1400.0,1400.0,811
-cerca de los angeles,1200,los angeles,1200.0,1200.0,1200.0,812
-el naranjo,1500,zaragoza itundujia,1500.0,1500.0,1500.0,813
-various,4000 p.s.n.m,oriente,1219.2,1219.2,1219.2,814
-llano hermoso,1300,"xochitonalco, huautla        ",1300.0,1300.0,1300.0,815
-various,1300,ijen,1300.0,1300.0,1300.0,816
-Unknown,1050,cordoba,1050.0,1050.0,1050.0,817
-hani,1200 meters,yunnan,1200.0,1200.0,1200.0,818
-finca la fortuna,850,"motozintla, chiapas",850.0,850.0,850.0,819
-el regadito,1248,petatlan,1248.0,1248.0,1248.0,820
-"dongshan gaoyuan village chief manor coffee tainan, taiwan 台灣台南東山高原村長莊園咖啡",750-800 m,"dongshan dist., tainan city 臺南市東山區",750.0,800.0,775.0,821
-rancho los laureles,1300,coatepec,1300.0,1300.0,1300.0,822
-finca los andes,1200,"motozintla, chiapas",1200.0,1200.0,1200.0,823
-"producer group (approx. 1,000 farmers)",900-1500 masl,san ignacio,900.0,1500.0,1200.0,824
-Unknown,Unknown,chickmangalore,Unknown,Unknown,Unknown,825
-Unknown,1100,coatepec,1100.0,1100.0,1100.0,826
-agua de la mariposa,1400,zaragoza itundujia,1400.0,1400.0,1400.0,827
-1,3500,indonesia,3500.0,3500.0,3500.0,828
-various,1000+ meters,"benguet, mountain province",1000.0,1000.0,1000.0,829
-Unknown,Unknown,monte carmelo,Unknown,Unknown,Unknown,830
-la joya,1100,tlacuilotepec,1100.0,1100.0,1100.0,831
-"zaragoza, montelibano, pamal navil",1200,ocosingo,1200.0,1200.0,1200.0,832
-peña campana,1280,huautla de jimenez,1280.0,1280.0,1280.0,833
-la cruz,850,menglian,850.0,850.0,850.0,834
-el limón,1500,zaragoza itundujia,1500.0,1500.0,1500.0,835
-la orduña,1250,coatepec,1250.0,1250.0,1250.0,836
-sierra madre,1700,chiapas,1700.0,1700.0,1700.0,837
-las ceibas,1140,"chocaman, veracruz",1140.0,1140.0,1140.0,838
-la marina-el orizabeño,1200,xalapa,1200.0,1200.0,1200.0,839
-rancho vigia,1250,coatepec,1250.0,1250.0,1250.0,840
-various,1200 meters,sierra alta mixe y zapoteca,1200.0,1200.0,1200.0,841
-2000 farmers,640m-1400m,marmelade,640.0,1400.0,1020.0,842
-la vuelta,800,tlatlauquitepec,800.0,800.0,800.0,843
-la morena,1800,veracruz,1800.0,1800.0,1800.0,844
-various,1000 meters,"sierra norte yajalon, chiapas",1000.0,1000.0,1000.0,845
-el centenario,900,juchique de ferrer,900.0,900.0,900.0,846
-200 farms,~350m,"department d'artibonite , haiti",350.0,350.0,350.0,847
-kyangundu cooperative society,1488,sheema south western,1488.0,1488.0,1488.0,848
-sethuraman estate kaapi royale,3170,chikmagalur karnataka indua,3170.0,3170.0,3170.0,849
-sethuraman estate,1000m,chikmagalur,1000.0,1000.0,1000.0,850
-ugacof project area,1212,central,1212.0,1212.0,1212.0,851
-katikamu capca farmers association,1200-1300,luwero central region,1200.0,1300.0,1250.0,852
-Unknown,3000',chikmagalur,3000.0,3000.0,3000.0,853
-sethuraman estates,750m,chikmagalur,750.0,750.0,750.0,854
-sethuraman estate kaapi royale,3140,chikmagalur karnataka india,3140.0,3140.0,3140.0,855
-sethuraman estate,1000,chikmagalur karnataka,1000.0,1000.0,1000.0,856
-ishaka,900-1300,western,900.0,1300.0,1100.0,857
-ugacof project area,1095,iganga namadrope eastern,1095.0,1095.0,1095.0,858
-sethuraman estate kaapi royale,1000,chikmagalur karnataka,1000.0,1000.0,1000.0,859
-kasozi coffee farmers,1367,eastern,1367.0,1367.0,1367.0,860
-kyangundu coop society,1488,south western,1488.0,1488.0,1488.0,861
-bushenyi,1600,western,1600.0,1600.0,1600.0,862
-kigezi coffee farmers association,1745,western,1745.0,1745.0,1745.0,863
-mannya coffee project,1200,southern,1200.0,1200.0,1200.0,864
-sethuraman estates,3000',chikmagalur,3000.0,3000.0,3000.0,865
-robustasa,Unknown,"san juan, playas",Unknown,Unknown,Unknown,866
-robustasa,40,"san juan, playas",40.0,40.0,40.0,867
-fazenda cazengo,795 meters,"kwanza norte province, angola",795.0,795.0,795.0,868
+metad plc,1830.9876708757638,guji-hambela,1950.0,2200.0,2075.0,1
+Unknown,1830.9876708757638,Peru,1812.3495975560081,1849.6257441955195,1830.9876708757638,2
+tulla coffee farm,1830.9876708757638,"snnp/kaffa zone,gimbowereda",1795.0,1850.0,1822.5,3
+el filo,1830.9876708757638,antioquia,1872.0,1872.0,1872.0,4
+los cedros,1830.9876708757638,antioquia,1943.0,1943.0,1943.0,5
+el águila,1830.9876708757638,antioquia,2080.0,2080.0,2080.0,6
+echo coffee,1830.9876708757638,yunnan,1450.0,1450.0,1450.0,7
+drima zede,1830.9876708757638,gedio,1700.0,2000.0,1850.0,8
+el rodeo,1830.9876708757638,antioquia,2019.0,2019.0,2019.0,9
+several,1830.9876708757638,san ramon,1300.0,1300.0,1300.0,10
+la herradura,1830.9876708757638,xalapa,1320.0,1320.0,1320.0,11
+la curva,1830.9876708757638,antioquia,2112.0,2112.0,2112.0,12
+fazenda kaquend,1830.9876708757638,south of minas,1250.0,1250.0,1250.0,13
+chebonet (23) women coffee,1830.9876708757638,kapchorwa eastern,1950.0,1950.0,1950.0,14
+tsoustructive garden 鄒築園,1830.9876708757638,"leye, alishan township, chiayi county",1200.0,1200.0,1200.0,15
+fazenda recreio,1830.9876708757638,vale da grama,1300.0,1300.0,1300.0,16
+exclusive coffees s.a.,1830.9876708757638,west and central valley,1300.0,1300.0,1300.0,17
+kangunu,1830.9876708757638,muranga,1800.0,1800.0,1800.0,18
+Unknown,1830.9876708757638,kona,1812.3495975560081,1849.6257441955195,1830.9876708757638,19
+la primavera,1830.9876708757638,antioquia,1941.0,1941.0,1941.0,20
+co-op #12,1830.9876708757638,chiang rai,1300.0,1300.0,1300.0,21
+sunshine valley estate 向陽高山咖啡,1830.9876708757638,natou county,1000.0,1000.0,1000.0,22
+jungle estate,1830.9876708757638,nyeri,1754.0,1754.0,1754.0,23
+ecobio colombia,1830.9876708757638,tolima,900.0,1500.0,1200.0,24
+kianjavi,1830.9876708757638,kiambu,1520.0,2200.0,1860.0,25
+Unknown,1830.9876708757638,"sipi, mt elgon",1400.0,1900.0,1650.0,26
+la esperanza y anexos,1830.9876708757638,nuevo oriente,1812.3495975560081,1849.6257441955195,1830.9876708757638,27
+sipi organic coffee project,1830.9876708757638,eastern,1400.0,1900.0,1650.0,28
+Unknown,1830.9876708757638,huila,1800.0,1800.0,1800.0,29
+la berlina estate,1830.9876708757638,boquete,1600.0,1600.0,1600.0,30
+valparaiso,1830.9876708757638,acatenango,1524.0,1524.0,1524.0,31
+finca el limon,1830.9876708757638,nuevo oriente,1417.32,1417.32,1417.32,32
+seid damtew coffee planation,1830.9876708757638,addis ababa,1812.3495975560081,1849.6257441955195,1830.9876708757638,33
+el majahual,1830.9876708757638,apaneca,1500.0,1500.0,1500.0,34
+finca la esmeralda,1830.9876708757638,"ataco, apaneca - ilamatepec mountain range",1300.0,1400.0,1350.0,35
+elida estate,1830.9876708757638,boquete,1680.0,1680.0,1680.0,36
+inoi,1830.9876708757638,kirinyaga,1900.0,1900.0,1900.0,37
+Unknown,1830.9876708757638,oromia,1800.0,2000.0,1900.0,38
+buginyanya,1830.9876708757638,bulambuli eastern region,1600.0,1600.0,1600.0,39
+asoperc,1830.9876708757638,huehuetenango,1706.88,1755.648,1731.264,40
+chesiyo farmer group,1830.9876708757638,kapchorwa,1950.0,1950.0,1950.0,41
+fazenda serra de três barras,1830.9876708757638,south of minas,1250.0,1250.0,1250.0,42
+pu'er city longke coffee co.ltd,1830.9876708757638,yunnan,1700.0,1700.0,1700.0,43
+el injerto s.a.,1830.9876708757638,huehuetenango,1770.0,1770.0,1770.0,44
+several,1830.9876708757638,west valley,1300.0,1300.0,1300.0,45
+Unknown,1830.9876708757638,central kenya,1600.0,1600.0,1600.0,46
+Unknown,1830.9876708757638,central kenya,1200.0,1200.0,1200.0,47
+various,1830.9876708757638,santander,1550.0,1550.0,1550.0,48
+Unknown,1830.9876708757638,santander,1550.0,1550.0,1550.0,49
+Unknown,1830.9876708757638,lintong,1250.0,1400.0,1325.0,50
+coop. hoja blanca - fedecocagua,1830.9876708757638,huehuetenango,1400.0,1400.0,1400.0,51
+seid damtew coffee planation,1830.9876708757638,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",1812.3495975560081,1849.6257441955195,1830.9876708757638,52
+Unknown,1830.9876708757638,pasto,2560.0,2560.0,2560.0,53
+Unknown,1830.9876708757638,cundinamarca,2136.0,2136.0,2136.0,54
+mount elgon area,1830.9876708757638,eastern uganda,1800.0,1800.0,1800.0,55
+Unknown,1830.9876708757638,huila,1812.3495975560081,1849.6257441955195,1830.9876708757638,56
+estate la patricia,1830.9876708757638,tarrazu,1900.0,1900.0,1900.0,57
+various,1830.9876708757638,veracruz,1300.0,1300.0,1300.0,58
+machure estate,1830.9876708757638,central kenya,1580.0,1580.0,1580.0,59
+sitío são geraldo,1830.9876708757638,grama valley,1100.0,1100.0,1100.0,60
+Unknown,1830.9876708757638,huila,1600.0,1950.0,1775.0,61
+baishengcun coffee 百勝村咖啡莊園,1830.9876708757638,natou county,800.0,800.0,800.0,62
+hasambo amcos,1830.9876708757638,mbeya,1620.0,1620.0,1620.0,63
+el suspiro,1830.9876708757638,coatepec,1200.0,1200.0,1200.0,64
+fazenda grota funda,1830.9876708757638,south of minas,1200.0,1200.0,1200.0,65
+sitio claro,1830.9876708757638,south of minas,1000.0,1000.0,1000.0,66
+shi fang yuan 十方源,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",350.0,350.0,350.0,67
+mt.elgon bugisu shamba 2,1830.9876708757638,eastern,1400.0,1900.0,1650.0,68
+matsuzawa coffee,1830.9876708757638,thailand,1812.3495975560081,1849.6257441955195,1830.9876708757638,69
+karatina,1830.9876708757638,nyeri,1800.0,1800.0,1800.0,70
+cerro bueno,1830.9876708757638,marcala,1450.0,1450.0,1450.0,71
+monterrey,1830.9876708757638,apaneca,1350.0,1350.0,1350.0,72
+sran temanggung plantation,1830.9876708757638,"temanggung, indonesia",1200.0,1200.0,1200.0,73
+ada farm,1830.9876708757638,ada okinawa japan,170.0,170.0,170.0,74
+rio jorco,1830.9876708757638,tarrazu,1150.0,1150.0,1150.0,75
+san diego buena vista,1830.9876708757638,acatenango,1600.0,1600.0,1600.0,76
+coopetarrazú,1830.9876708757638,tarrazu,1750.0,1750.0,1750.0,77
+moplaco,1830.9876708757638,yirgacheffe,1900.0,1900.0,1900.0,78
+finca salaca las brisas,1830.9876708757638,costa rica,1750.0,1750.0,1750.0,79
+various,1830.9876708757638,west valley,1200.0,1200.0,1200.0,80
+dragon 龍咖啡,1830.9876708757638,taichung xinshe 台中市新社區,1000.0,1000.0,1000.0,81
+Unknown,1830.9876708757638,nyeri,2000.0,2000.0,2000.0,82
+agropecuaria quiagral,1830.9876708757638,oriente,1310.64,1310.64,1310.64,83
+"el nogal, la higuera, los laureles",1830.9876708757638,el remudadero,1200.0,1200.0,1200.0,84
+Unknown,1830.9876708757638,mbale,1700.0,1850.0,1775.0,85
+Unknown,1830.9876708757638,santander,1500.0,1500.0,1500.0,86
+blend,1830.9876708757638,nyeri,1800.0,1800.0,1800.0,87
+el morito,1830.9876708757638,jalapa,1524.0,1524.0,1524.0,88
+el papaturro,1830.9876708757638,oriente,1219.2,1219.2,1219.2,89
+Unknown,1830.9876708757638,huila,1600.0,1900.0,1750.0,90
+Unknown,1830.9876708757638,Kenya,1812.3495975560081,1849.6257441955195,1830.9876708757638,91
+Unknown,1830.9876708757638,huila,1750.0,1750.0,1750.0,92
+la chaparral,1830.9876708757638,tres rios,1450.0,1700.0,1575.0,93
+various,1830.9876708757638,huila,1800.0,1800.0,1800.0,94
+fazenda vista alegre,1830.9876708757638,mountains of minas gerais,1100.0,1100.0,1100.0,95
+Unknown,1830.9876708757638,valle central,1200.0,1200.0,1200.0,96
+kawacom sipi project,1830.9876708757638,eastern uganda,1750.0,1750.0,1750.0,97
+menglian ban’an coffee processing factory,1830.9876708757638,yunnan,1680.0,1680.0,1680.0,98
+coopetarrazú,1830.9876708757638,tarrazu,1700.0,1700.0,1700.0,99
+Unknown,1830.9876708757638,cauca,1800.0,1800.0,1800.0,100
+"puer jiangcheng fuwang coffee biotechnology co., ltd",1830.9876708757638,yunnan,1100.0,1100.0,1100.0,101
+el sacramento,1830.9876708757638,oriente,1310.64,1310.64,1310.64,102
+rumukia farmers,1830.9876708757638,nyeri,2000.0,2000.0,2000.0,103
+la barranca,1830.9876708757638,hustusco,1350.0,1350.0,1350.0,104
+finca el retiro,1830.9876708757638,jaltenango,1500.0,1500.0,1500.0,105
+nueva granada,1830.9876708757638,"el tumbador, san marcos",1812.3495975560081,1849.6257441955195,1830.9876708757638,106
+several farmers,1830.9876708757638,tarrazu,1300.0,1300.0,1300.0,107
+darmawi,1830.9876708757638,sumatra brastagi,1400.0,1400.0,1400.0,108
+Unknown,1830.9876708757638,pitalito,1812.3495975560081,1849.6257441955195,1830.9876708757638,109
+tropica galliard,1830.9876708757638,"mountain ali, taiwan",1200.0,1200.0,1200.0,110
+finca la chiripa,1830.9876708757638,tapachula,900.0,900.0,900.0,111
+kigwandi,1830.9876708757638,nyeri,1800.0,1800.0,1800.0,112
+los hicaques,1830.9876708757638,central region,1500.0,1500.0,1500.0,113
+Unknown,1830.9876708757638,huila,442.0,442.0,442.0,114
+la distancia,1830.9876708757638,tuxtla gutierrez,1700.0,1700.0,1700.0,115
+馨晴咖啡 good mood coffee,1830.9876708757638,國姓鄉 guoshing township,1000.0,1000.0,1000.0,116
+matsuzawa coffee,1830.9876708757638,chiang rai thailand,1200.0,1200.0,1200.0,117
+Unknown,1830.9876708757638,nariño,2560.0,2560.0,2560.0,118
+finca medina,1830.9876708757638,antigua,1500.0,1500.0,1500.0,119
+finca san vicente,1830.9876708757638,huehuetenango,1099.4136,1099.4136,1099.4136,120
+menglian county nayun town mangzhang coffee farm,1830.9876708757638,yunnan,1400.0,1400.0,1400.0,121
+jacksom mwasenga,1830.9876708757638,shizingo village,1620.0,1620.0,1620.0,122
+suma jkt itende,1830.9876708757638,mbeya,1600.0,1600.0,1600.0,123
+Unknown,1830.9876708757638,cauca,1700.0,1700.0,1700.0,124
+pante carajillo,1830.9876708757638,san pedro cotzilnam,1450.0,1450.0,1450.0,125
+finca los barreales,1830.9876708757638,veracruz,1170.0,1170.0,1170.0,126
+finca santa teresa,1830.9876708757638,"la concordia, chiapas",1400.0,1400.0,1400.0,127
+Unknown,1830.9876708757638,kasese,1700.0,1700.0,1700.0,128
+piamonte,1830.9876708757638,san marcos,1700.0,1700.0,1700.0,129
+los girasoles,1830.9876708757638,tarrazu,1700.0,1700.0,1700.0,130
+finca la joya,1830.9876708757638,huehuetenango,1116.7872,1116.7872,1116.7872,131
+santo tomas pachuj,1830.9876708757638,solola,1565.0,1565.0,1565.0,132
+chapultepec,1830.9876708757638,norte,3280.0,3280.0,3280.0,133
+las nubes,1830.9876708757638,jinotega,900.0,1100.0,1000.0,134
+pantano,1830.9876708757638,cerrado,1150.0,1150.0,1150.0,135
+gamboa,1830.9876708757638,tarrazu,1850.0,1850.0,1850.0,136
+asefa dukamo coffee plantation,1830.9876708757638,snnprg; kafa; telo woreda; shada kebele,1545.0,1668.0,1606.5,137
+selian coffee estate,1830.9876708757638,arusha,1400.0,1400.0,1400.0,138
+Unknown,1830.9876708757638,huila,1530.0,1530.0,1530.0,139
+Unknown,1830.9876708757638,kenya,1.0,500.0,250.5,140
+café do paraíso,1830.9876708757638,"minas gerais, br",894.0,1183.0,1038.5,141
+la union monte verde,1830.9876708757638,oriente,1310.64,1310.64,1310.64,142
+el limon,1830.9876708757638,guatemala,1812.3495975560081,1849.6257441955195,1830.9876708757638,143
+Unknown,1830.9876708757638,mt. rwenzori,1500.0,1700.0,1600.0,144
+"mus, eman",1830.9876708757638,aceh tengah,1812.3495975560081,1849.6257441955195,1830.9876708757638,145
+chang yu liang 張玉良,1830.9876708757638,"nanxi dist., tainan city 臺南市楠西區",968.0,968.0,968.0,146
+la esperanza y anexos,1830.9876708757638,oriente,1812.3495975560081,1849.6257441955195,1830.9876708757638,147
+aprocafi,1830.9876708757638,"aldea xeucalvitz, ixil region, quiche department",1550.0,1550.0,1550.0,148
+la lagunilla,1830.9876708757638,santo domingo cacalotepec,1480.0,1480.0,1480.0,149
+Unknown,1830.9876708757638,"ethiopia, sidamo",1800.0,1800.0,1800.0,150
+kerchanshe,1830.9876708757638,sidamo,1800.0,1800.0,1800.0,151
+las cuchillas,1830.9876708757638,comayagua,1500.0,1500.0,1500.0,152
+finca los cerros y anexos,1830.9876708757638,huehuetenango,1658.112,1755.648,1706.88,153
+Unknown,1830.9876708757638,huila,1600.0,1600.0,1600.0,154
+Unknown,1830.9876708757638,santander,1450.0,1450.0,1450.0,155
+Unknown,1830.9876708757638,sidamo,1550.0,1550.0,1550.0,156
+fazenda rio verde,1830.9876708757638,south of minas,1260.0,1260.0,1260.0,157
+Unknown,1830.9876708757638,blend,1200.0,1200.0,1200.0,158
+doi tung development project,1830.9876708757638,thailand,1812.3495975560081,1849.6257441955195,1830.9876708757638,159
+-,1830.9876708757638,central kenya,1650.0,1650.0,1650.0,160
+fazenda capoeirnha,1830.9876708757638,south of minas,890.0,890.0,890.0,161
+cafetal,1830.9876708757638,veracruz,1300.0,1300.0,1300.0,162
+saveg coffee farm,1830.9876708757638,chiangrai,1350.0,1350.0,1350.0,163
+capoeirinha,1830.9876708757638,south of minas,934.0,934.0,934.0,164
+tsoustructive garden 鄒築園,1830.9876708757638,"leye, alishan township, chiayi county 嘉義阿里山樂野村",1200.0,1200.0,1200.0,165
+神谷山莊園,1830.9876708757638,台中和平區,950.0,950.0,950.0,166
+finca cuetzalingo,1830.9876708757638,xicotepec de juarez,900.0,900.0,900.0,167
+finca sant rosa,1830.9876708757638,la concordia,1500.0,1500.0,1500.0,168
+comunidad la yerbabuena,1830.9876708757638,la yerbabuena,1400.0,1400.0,1400.0,169
+Unknown,1830.9876708757638,nariño,2527.0,2527.0,2527.0,170
+rio verde,1830.9876708757638,south of minas,1.0,1.0,1.0,171
+鄉舍咖啡 hometown coffee,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",480.0,570.0,525.0,172
+rio verde,1830.9876708757638,south of minas,1200.0,1200.0,1200.0,173
+various,1830.9876708757638,central valley,1200.0,1400.0,1300.0,174
+finca el morito,1830.9876708757638,oriente,1310.64,1310.64,1310.64,175
+predio cañada del encino,1830.9876708757638,petatlan,1218.0,1218.0,1218.0,176
+finca santa teresa,1830.9876708757638,"la concordia, chiapas",1300.0,1300.0,1300.0,177
+fazenda do sertao,1830.9876708757638,carmo de minas,1250.0,1250.0,1250.0,178
+Unknown,1830.9876708757638,nyeri,1800.0,1800.0,1800.0,179
+崁頭山咖啡館 (kan tou mountain coffee),1830.9876708757638,"台南市東山區 (dongshan dist., tainan city)",750.0,750.0,750.0,180
+pu’er specialty coffee cupping center,1830.9876708757638,yunnan,1650.0,1650.0,1650.0,181
+erussi farmers group,1830.9876708757638,west nile,1400.0,1400.0,1400.0,182
+hacienda caracolillo,1830.9876708757638,yauco region,853.44,853.44,853.44,183
+Unknown,1830.9876708757638,huila,1500.0,1600.0,1550.0,184
+naranjal,1830.9876708757638,"huazalingo, hidalgo",700.0,700.0,700.0,185
+several farms,1830.9876708757638,quetzaltenango,1300.0,1300.0,1300.0,186
+Unknown,1830.9876708757638,meru county,1700.0,1700.0,1700.0,187
+los hicaques,1830.9876708757638,comayagua,1400.0,1400.0,1400.0,188
+santa matilde,1830.9876708757638,jinotega,1250.0,1250.0,1250.0,189
+Unknown,1830.9876708757638,huila,1550.0,1700.0,1625.0,190
+finca las cuevitas,1830.9876708757638,huehuetenango,1356.6648,1356.6648,1356.6648,191
+various,1830.9876708757638,huila supremo,1750.0,1750.0,1750.0,192
+Unknown,1830.9876708757638,huila,1800.0,2000.0,1900.0,193
+finca quequesquez,1830.9876708757638,oriente,1450.0,1450.0,1450.0,194
+finca apoxtla,1830.9876708757638,xicotepec de juarez,1100.0,1100.0,1100.0,195
+"ijen highland, east java",1830.9876708757638,east java,1200.0,1600.0,1400.0,196
+finca medina,1830.9876708757638,"sacatepequez, guatemala",1524.0,1524.0,1524.0,197
+finca santa clara,1830.9876708757638,huehuetenango,1128.3696,1128.3696,1128.3696,198
+menglian mang pan professional cooperative,1830.9876708757638,yunnan,1100.0,1100.0,1100.0,199
+exportadora café california,1830.9876708757638,"chiapas, jaltenango",1200.0,1200.0,1200.0,200
+lomi tasha,1830.9876708757638,yirgacheffe,1700.0,2000.0,1850.0,201
+bulamburi coffee farmers,1830.9876708757638,eastern,1800.0,1800.0,1800.0,202
+Unknown,1830.9876708757638,cundinamarca,1600.0,1600.0,1600.0,203
+dragon coffee 龍咖啡,1830.9876708757638,taichung xinshe 台中市新社區,1000.0,1000.0,1000.0,204
+ojo de agua,1830.9876708757638,xalapa,1000.0,1000.0,1000.0,205
+fazenda jericó,1830.9876708757638,south of minas,1100.0,1100.0,1100.0,206
+Unknown,1830.9876708757638,cundinamarca,1799.0,1799.0,1799.0,207
+Unknown,1830.9876708757638,tarrazu,1850.0,1850.0,1850.0,208
+Unknown,1830.9876708757638,pitalito,1000.0,1000.0,1000.0,209
+la esperanza,1830.9876708757638,oriente,1219.2,1219.2,1219.2,210
+ano family,1830.9876708757638,nkure- meru,1400.0,1400.0,1400.0,211
+yusrin,1830.9876708757638,bener meriah,1500.0,1500.0,1500.0,212
+Unknown,1830.9876708757638,huila,1850.0,1850.0,1850.0,213
+several,1830.9876708757638,atitlan,1400.0,1400.0,1400.0,214
+Unknown,1830.9876708757638,cundinamarca,1650.0,1650.0,1650.0,215
+los hicaques,1830.9876708757638,comayagua,1350.0,1350.0,1350.0,216
+finca los barreales 1112lban,1830.9876708757638,xalapa,1170.0,1170.0,1170.0,217
+Unknown,1830.9876708757638,chilón,940.0,940.0,940.0,218
+la corralera,1830.9876708757638,totutla,1400.0,1400.0,1400.0,219
+santo tomas pachuj,1830.9876708757638,atitlan,1524.0,1524.0,1524.0,220
+conquista / morito,1830.9876708757638,oriente,1402.08,1402.08,1402.08,221
+Unknown,1830.9876708757638,huila,439.0,439.0,439.0,222
+bulago & buginyanya,1830.9876708757638,eastern,1800.0,1800.0,1800.0,223
+matsuzawa coffee,1830.9876708757638,thailand,1200.0,1200.0,1200.0,224
+la joya,1830.9876708757638,apaneca,1330.0,1330.0,1330.0,225
+cachoeira da grama farm,1830.9876708757638,vale da grama,1812.3495975560081,1849.6257441955195,1830.9876708757638,226
+ngila estate,1830.9876708757638,karatu northern,1600.0,1600.0,1600.0,227
+Unknown,1830.9876708757638,huila,1813.0,1813.0,1813.0,228
+el morito,1830.9876708757638,oriente,1310.64,1310.64,1310.64,229
+various,1830.9876708757638,cundinamarca,1450.0,1450.0,1450.0,230
+various,1830.9876708757638,huila,1650.0,1650.0,1650.0,231
+Unknown,1830.9876708757638,guayata,1812.3495975560081,1849.6257441955195,1830.9876708757638,232
+rio verde,1830.9876708757638,south of minas,1227.0,1227.0,1227.0,233
+ecc,1830.9876708757638,chiapas,1200.0,1200.0,1200.0,234
+various,1830.9876708757638,santander,1650.0,1650.0,1650.0,235
+mondul coffee estate,1830.9876708757638,arusha,1700.0,1700.0,1700.0,236
+el pino,1830.9876708757638,veracruz,1100.0,1100.0,1100.0,237
+several,1830.9876708757638,central valley,1100.0,1300.0,1200.0,238
+marre blanche,1830.9876708757638,"thiotte, haiti",1280.16,1280.16,1280.16,239
+sogestal kayanza,1830.9876708757638,kayanza,1880.0,1880.0,1880.0,240
+corta pico,1830.9876708757638,sierra madre occidental,1600.0,1600.0,1600.0,241
+linda vista,1830.9876708757638,nuevo oriente,2100.0,2100.0,2100.0,242
+kawacom uganda ltd sipi farmers group,1830.9876708757638,"sipi, mt elgon",1812.3495975560081,1849.6257441955195,1830.9876708757638,243
+los charcos,1830.9876708757638,cuarenteño,1261.0,1261.0,1261.0,244
+以勒咖啡,1830.9876708757638,南投國姓,800.0,800.0,800.0,245
+Unknown,1830.9876708757638,eje cafetero,1483.0,1483.0,1483.0,246
+various,1830.9876708757638,chiapas,1300.0,1300.0,1300.0,247
+finca teocelo,1830.9876708757638,veracruz,1812.3495975560081,1849.6257441955195,1830.9876708757638,248
+mata larga,1830.9876708757638,fortín de las flores,1000.0,1000.0,1000.0,249
+água limpa,1830.9876708757638,grama valley,1200.0,1200.0,1200.0,250
+Unknown,1830.9876708757638,huila,175.0,175.0,175.0,251
+Unknown,1830.9876708757638,la plata,1600.0,1950.0,1775.0,252
+beneficio el torreon,1830.9876708757638,oriente,1901.0,1901.0,1901.0,253
+mamsera,1830.9876708757638,moshi,168.0,168.0,168.0,254
+apollo estate,1830.9876708757638,dala,1550.0,1550.0,1550.0,255
+bethel,1830.9876708757638,marcala,1450.0,1450.0,1450.0,256
+chen lin,1830.9876708757638,yunnan,1200.0,1200.0,1200.0,257
+yunnan success trade co.ltd,1830.9876708757638,dehong prefecture,1600.0,1600.0,1600.0,258
+agua caliente,1830.9876708757638,apaneca,1350.0,1350.0,1350.0,259
+"la esperanza, margarita nuyes",1830.9876708757638,oriente,1400.0,1900.0,1650.0,260
+myanganyanga,1830.9876708757638,mbinga,1653.0,1653.0,1653.0,261
+kaptanya,1830.9876708757638,eastern,1800.0,1800.0,1800.0,262
+el cerron,1830.9876708757638,san marcos,1450.0,1450.0,1450.0,263
+nueva granada,1830.9876708757638,san marcos,1524.0,1524.0,1524.0,264
+Unknown,1830.9876708757638,kilimanjaro,1800.0,1800.0,1800.0,265
+santa cecilia,1830.9876708757638,chiapas,1500.0,1500.0,1500.0,266
+tlapacoya,1830.9876708757638,"tlanchinol, hidalgo",532.0,532.0,532.0,267
+la loma,1830.9876708757638,san bartolo tutotepec,1089.0,1089.0,1089.0,268
+el mirador,1830.9876708757638,san isidro,700.0,700.0,700.0,269
+finca nueva linda,1830.9876708757638,la concordia,1380.0,1380.0,1380.0,270
+campo das flores,1830.9876708757638,south of minas,1000.0,1000.0,1000.0,271
+são francisco da serra,1830.9876708757638,mogiana,950.0,950.0,950.0,272
+fazenda do lobo,1830.9876708757638,south of minas,1000.0,1000.0,1000.0,273
+capoeirinha,1830.9876708757638,south of minas,905.0,905.0,905.0,274
+kan tou mountain coffee 崁頭山咖啡館,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",700.0,800.0,750.0,275
+Unknown,1830.9876708757638,chapadão de ferro (cerrado mineiro),1812.3495975560081,1849.6257441955195,1830.9876708757638,276
+alishan zou zhu yuan 阿里山鄒築園,1830.9876708757638,chiayi alishan 嘉義縣阿里山鄉,1300.0,1300.0,1300.0,277
+santa maria,1830.9876708757638,santa catarina juquila,1400.0,1400.0,1400.0,278
+fazenda capoeirnha,1830.9876708757638,south of minas,894.0,894.0,894.0,279
+capoeirinha,1830.9876708757638,south of minas,872.0,872.0,872.0,280
+isule farmers group,1830.9876708757638,"kasese, mt. rwenzori",1473.0,1473.0,1473.0,281
+ibanda farmers group,1830.9876708757638,"kasese, mt. rwenzori",1645.0,1645.0,1645.0,282
+apollo estate,1830.9876708757638,vietnam cau dat,1550.0,1550.0,1550.0,283
+el chile,1830.9876708757638,nuevo oriente,1300.0,1800.0,1550.0,284
+nueva granada,1830.9876708757638,"el tumbador, san marcos",1371.6,1371.6,1371.6,285
+fazenda santo antonio,1830.9876708757638,high mogiana,900.0,1100.0,1000.0,286
+雅慕伊,1830.9876708757638,嘉義阿里山,1200.0,1200.0,1200.0,287
+kabeywa county,1830.9876708757638,kapchorwa,1800.0,1800.0,1800.0,288
+grupo medina (pequeños productores),1830.9876708757638,antigua,1500.0,1500.0,1500.0,289
+sertao farm,1830.9876708757638,sul de minas,1250.0,1250.0,1250.0,290
+vegas,1830.9876708757638,coatepec,750.0,750.0,750.0,291
+finca la estancia,1830.9876708757638,atoyac de alvarez,1200.0,1200.0,1200.0,292
+las lomas,1830.9876708757638,coatepec,1200.0,1200.0,1200.0,293
+Unknown,1830.9876708757638,Colombia,1812.3495975560081,1849.6257441955195,1830.9876708757638,294
+various,1830.9876708757638,huila,1500.0,1750.0,1625.0,295
+la igualdad,1830.9876708757638,"la reforma, san marcos",1371.6,1371.6,1371.6,296
+santa josefita,1830.9876708757638,apaneca,1350.0,1350.0,1350.0,297
+Unknown,1830.9876708757638,guayata,1500.0,1500.0,1500.0,298
+-,1830.9876708757638,"blida,kercha,guji,oromia",2000.0,2000.0,2000.0,299
+佐佑品咖啡莊園,1830.9876708757638,台東太麻里,775.0,775.0,775.0,300
+kalugmanan agri development corp.,1830.9876708757638,"bukidnon, mindanao, philppines",1200.0,1200.0,1200.0,301
+"several, bukidnon, mindanao, philippines",1830.9876708757638,asia pacific,1600.0,1600.0,1600.0,302
+pinzoneno,1830.9876708757638,cuarenteño,1059.0,1059.0,1059.0,303
+fiech (mixed producers),1830.9876708757638,chiapas,1300.0,1300.0,1300.0,304
+fazenda pantano,1830.9876708757638,cerrado,11000.0,11000.0,11000.0,305
+nyapea coffee farmers,1830.9876708757638,west nile,1400.0,1400.0,1400.0,306
+Unknown,1830.9876708757638,antioquia,1450.0,1450.0,1450.0,307
+el regalito,1830.9876708757638,petatlan,1248.0,1248.0,1248.0,308
+"apollo co., ltd.",1830.9876708757638,don duong,1040.0,1040.0,1040.0,309
+el jabali,1830.9876708757638,la cumbre,1400.0,1400.0,1400.0,310
+el barbaro,1830.9876708757638,"el balsamo, quezaltepec",1250.0,1250.0,1250.0,311
+gicumbi,1830.9876708757638,gicumbi,1900.0,1900.0,1900.0,312
+apollo estate,1830.9876708757638,vietnam tutra,1040.0,1040.0,1040.0,313
+santa fé 2,1830.9876708757638,cerrado,900.0,900.0,900.0,314
+Unknown,1830.9876708757638,huila,1200.0,2000.0,1600.0,315
+"kampung keling, jumaraj, gurusinga, gongsol",1830.9876708757638,berastagi,1200.0,1200.0,1200.0,316
+Unknown,1830.9876708757638,santander,1800.0,1800.0,1800.0,317
+burka coffee estate,1830.9876708757638,arusha,1400.0,1400.0,1400.0,318
+Unknown,1830.9876708757638,la concordia,1550.0,1550.0,1550.0,319
+santa rosa,1830.9876708757638,veracruz,1250.0,1250.0,1250.0,320
+providencia,1830.9876708757638,santa rosa,1100.0,1100.0,1100.0,321
+linda vista,1830.9876708757638,santa rosa,1800.0,1800.0,1800.0,322
+las merceditas,1830.9876708757638,san marcos,1700.0,1700.0,1700.0,323
+las delicias,1830.9876708757638,santa rosa,1219.2,1219.2,1219.2,324
+la esmeralda,1830.9876708757638,oriente,1219.2,1219.2,1219.2,325
+various,1830.9876708757638,sapan toraja,1500.0,1500.0,1500.0,326
+la esmeralda,1830.9876708757638,el progreso,157.8864,157.8864,157.8864,327
+大鋤花間 (hoe vs. flower coffee farm),1830.9876708757638,"台南市東山區( dongshan dist., tainan city)",650.0,650.0,650.0,328
+la montaña,1830.9876708757638,cacahuatique,1250.0,1250.0,1250.0,329
+man ganna estate,1830.9876708757638,yunnan,1100.0,1100.0,1100.0,330
+pu'er lingdu yunlin coffee co.ltd,1830.9876708757638,menglian,1500.0,1500.0,1500.0,331
+msese,1830.9876708757638,mzuzu,1442.0,1442.0,1442.0,332
+Unknown,1830.9876708757638,huila,165.0,165.0,165.0,333
+several,1830.9876708757638,antioquia,1300.0,1300.0,1300.0,334
+san lorenzo,1830.9876708757638,chiapas,1550.0,1550.0,1550.0,335
+tlamatoca,1830.9876708757638,veracruz,1200.0,1200.0,1200.0,336
+Unknown,1830.9876708757638,atoyac de alvarez,1200.0,1200.0,1200.0,337
+supply chain ecom cca s.a.,1830.9876708757638,south huila,1400.0,1850.0,1625.0,338
+hacienda la esmeralda,1830.9876708757638,boquete,1100.0,1100.0,1100.0,339
+capoeirinha,1830.9876708757638,south of minas,890.0,890.0,890.0,340
+savan coffee bean,1830.9876708757638,"paksong,laos",1300.0,1300.0,1300.0,341
+el barbaro,1830.9876708757638,"el balsamo, quezaltepec",1200.0,1200.0,1200.0,342
+santa maria,1830.9876708757638,monte carmelo,1812.3495975560081,1849.6257441955195,1830.9876708757638,343
+nitin,1830.9876708757638,karatu arusha,1700.0,1700.0,1700.0,344
+ampcg,1830.9876708757638,mbinga,1550.0,1550.0,1550.0,345
+伊娜咖啡莊園,1830.9876708757638,嘉義阿里山,1200.0,1200.0,1200.0,346
+los llanitos,1830.9876708757638,la yerba,1296.0,1296.0,1296.0,347
+bugisu shamba,1830.9876708757638,mt elgon,1400.0,1900.0,1650.0,348
+zhuo wu shan coffee 卓武山咖啡農場,1830.9876708757638,chiayi alishan 嘉義縣阿里山鄉,1240.0,1240.0,1240.0,349
+m10,1830.9876708757638,phahi,1500.0,1500.0,1500.0,350
+Unknown,1830.9876708757638,El Salvador,1812.3495975560081,1849.6257441955195,1830.9876708757638,351
+finca monte grande,1830.9876708757638,Mexico,1100.0,1100.0,1100.0,352
+finca castillos,1830.9876708757638,mahuixtlan,950.0,950.0,950.0,353
+林園咖啡 lin yuan coffee,1830.9876708757638,國姓鄉 guoshing township,1050.0,1050.0,1050.0,354
+small holders farmer,1830.9876708757638,aceh,1200.0,1300.0,1250.0,355
+Unknown,1830.9876708757638,chiangrai,1400.0,1500.0,1450.0,356
+lubanda amcos,1830.9876708757638,ikand village,1317.0,1317.0,1317.0,357
+mt.elgon sipi falls cheema,1830.9876708757638,eastern,1400.0,1900.0,1650.0,358
+various,1830.9876708757638,huila,1750.0,1750.0,1750.0,359
+jamaica,1830.9876708757638,oaxaca,1250.0,1250.0,1250.0,360
+la timbuchera; el ocotito y la hortaliza,1830.9876708757638,colima,1150.0,1150.0,1150.0,361
+various,1830.9876708757638,bali,1250.0,1250.0,1250.0,362
+las cuchillas,1830.9876708757638,comayagua,1400.0,1400.0,1400.0,363
+shah plantation,1830.9876708757638,karatu arusha,1600.0,1600.0,1600.0,364
+amkeni,1830.9876708757638,moshi,1812.3495975560081,1849.6257441955195,1830.9876708757638,365
+finca san el retiro,1830.9876708757638,chiapas,1500.0,1700.0,1600.0,366
+la esperanza y anexos,1830.9876708757638,oriente,1310.64,1310.64,1310.64,367
+la pagua,1830.9876708757638,san bartolo tutotepec,1679.0,1679.0,1679.0,368
+caltuchoco,1830.9876708757638,zapotitlan de mendez,1100.0,1100.0,1100.0,369
+santa cruz - pante don manuel,1830.9876708757638,la concordia,1650.0,1650.0,1650.0,370
+various,1830.9876708757638,oriente,1812.3495975560081,1849.6257441955195,1830.9876708757638,371
+carrillo cooperativa,1830.9876708757638,"comayagua, honduras",1500.0,1500.0,1500.0,372
+providencia,1830.9876708757638,santa rosa,1812.3495975560081,1849.6257441955195,1830.9876708757638,373
+Unknown,1830.9876708757638,guayata,1600.0,1600.0,1600.0,374
+menglian gao sanlin coffee factory,1830.9876708757638,yunnan,1600.0,1600.0,1600.0,375
+nguruma,1830.9876708757638,arusha meru,2285.0,2285.0,2285.0,376
+fazenda serra negra,1830.9876708757638,south of minas,1000.0,1000.0,1000.0,377
+cipresal,1830.9876708757638,chiapas,1560.0,1560.0,1560.0,378
+pante san pedro,1830.9876708757638,san pedro cotzilnam,1400.0,1400.0,1400.0,379
+"cafetal el equimite, rancho agroecológico",1830.9876708757638,coatepec,1300.0,1300.0,1300.0,380
+los barreales 1112lbcat_s110312,1830.9876708757638,xalapa,1170.0,1170.0,1170.0,381
+corral del diablo lote 1,1830.9876708757638,zihuatanejo de azueta,1300.0,1300.0,1300.0,382
+cañada fria,1830.9876708757638,veracruz,1350.0,1350.0,1350.0,383
+finca nextlalpa,1830.9876708757638,xicotepec de juarez,1150.0,1150.0,1150.0,384
+santa rosa,1830.9876708757638,progreso santa rosa teocelo,1250.0,1250.0,1250.0,385
+fln mirador,1830.9876708757638,fln mirador,1450.0,1450.0,1450.0,386
+santa mariana,1830.9876708757638,south of minas,1812.3495975560081,1849.6257441955195,1830.9876708757638,387
+los hicaques,1830.9876708757638,comayagua,1396.0,1396.0,1396.0,388
+fazenda são pedro,1830.9876708757638,cerrado,982.0,982.0,982.0,389
+rio jorco,1830.9876708757638,tarrazu,1550.0,1550.0,1550.0,390
+yun lan coffee co. ltd,1830.9876708757638,xishuangbanna prefecture,1580.0,1580.0,1580.0,391
+rio verde,1830.9876708757638,south of minas,1268.0,1268.0,1268.0,392
+finca loma linda y anexo,1830.9876708757638,huehuetenango,1676.4,1676.4,1676.4,393
+utchisi mountain,1830.9876708757638,mzuzu,1450.0,1450.0,1450.0,394
+rio verde,1830.9876708757638,south of minas,1100.0,1100.0,1100.0,395
+guo cun nong yuan 國村農園,1830.9876708757638,changhua baguashan 彰化市八卦山,200.0,200.0,200.0,396
+yu jin gui 玉金櫃咖啡,1830.9876708757638,taichung xinshe 台中市新社區,600.0,600.0,600.0,397
+santa teresa,1830.9876708757638,"la concordia, chiapas",1300.0,1300.0,1300.0,398
+finca el morito,1830.9876708757638,jalapa,1676.4,1828.8,1752.6,399
+tepemalacax,1830.9876708757638,"jaltocan, hidalgo",441.0,441.0,441.0,400
+finca los barreales 1112lbga7250412,1830.9876708757638,veracruz,1170.0,1170.0,1170.0,401
+sitío santa luzia,1830.9876708757638,grama valley,1100.0,1100.0,1100.0,402
+cafetal santa maria,1830.9876708757638,santa catarina juquila,1200.0,1400.0,1300.0,403
+café citrus,1830.9876708757638,south of minas,950.0,950.0,950.0,404
+fazendas klem ltda,1830.9876708757638,brazil matas de minas,1100.0,1100.0,1100.0,405
+linda vista,1830.9876708757638,nuevo oriente,1450.0,1450.0,1450.0,406
+zapato de mico,1830.9876708757638,apaneca,1500.0,1500.0,1500.0,407
+bethel,1830.9876708757638,marcala,1350.0,1350.0,1350.0,408
+kachere,1830.9876708757638,mzuzu,1180.0,1180.0,1180.0,409
+guo xing ka fei wang 國姓咖啡王咖啡莊園,1830.9876708757638,nantou,650.0,650.0,650.0,410
+finca huehuetecpan,1830.9876708757638,veracruz,1338.0,1338.0,1338.0,411
+omicuatla,1830.9876708757638,"calnali, hidalgo",533.0,533.0,533.0,412
+finca medina,1830.9876708757638,antigua,1390.8024,1390.8024,1390.8024,413
+los barreales 1112lbgr7230412,1830.9876708757638,veracruz,1170.0,1170.0,1170.0,414
+jamaica,1830.9876708757638,juquila,1250.0,1250.0,1250.0,415
+chilcuatla,1830.9876708757638,veracruz,1100.0,1100.0,1100.0,416
+comunidad de canoas,1830.9876708757638,canoas,900.0,900.0,900.0,417
+caxambu,1830.9876708757638,Brazil,1812.3495975560081,1849.6257441955195,1830.9876708757638,418
+fazenda capoeirnha,1830.9876708757638,south of minas,934.0,934.0,934.0,419
+langiro farm group,1830.9876708757638,ruvuma,1500.0,1800.0,1650.0,420
+Unknown,1830.9876708757638,northern,1600.0,1600.0,1600.0,421
+blue lake,1830.9876708757638,atitlan,1500.0,1500.0,1500.0,422
+Unknown,1830.9876708757638,cerrado,1812.3495975560081,1849.6257441955195,1830.9876708757638,423
+ilomba 2,1830.9876708757638,"ilomba vilage, mbozi",1700.0,1700.0,1700.0,424
+Unknown,1830.9876708757638,"la concordia, chiapas",1200.0,1600.0,1400.0,425
+song yue coffee 嵩岳咖啡,1830.9876708757638,yunlin 雲林縣石壁,1200.0,1200.0,1200.0,426
+kan tou mountain coffee 崁頭山咖啡館,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",800.0,800.0,800.0,427
+el nanchi,1830.9876708757638,san bartolo tutotepec,1144.0,1144.0,1144.0,428
+Unknown,1830.9876708757638,oriente,1350.0,1350.0,1350.0,429
+las truchas,1830.9876708757638,altotonga,1000.0,1000.0,1000.0,430
+"la calera, barranca de la leona, el nogal",1830.9876708757638,colima,1200.0,1200.0,1200.0,431
+various,1830.9876708757638,aceh gayo,1300.0,1300.0,1300.0,432
+el patalillo,1830.9876708757638,tres rios,1200.0,1400.0,1300.0,433
+ampcg,1830.9876708757638,kilimanjaro,1500.0,1500.0,1500.0,434
+ngorogoro convenant estate,1830.9876708757638,ngorogoro,1500.0,1700.0,1600.0,435
+cafetalera aquiares,1830.9876708757638,turrialba,13.0,13.0,13.0,436
+Unknown,1830.9876708757638,tapachula,1800.0,1800.0,1800.0,437
+bola de oro,1830.9876708757638,coatepec,1250.0,1250.0,1250.0,438
+tomatlancillo,1830.9876708757638,veracruz,1250.0,1250.0,1250.0,439
+las moras,1830.9876708757638,el paraíso,1600.0,1600.0,1600.0,440
+las moras,1830.9876708757638,guinope el paraíso,1600.0,1600.0,1600.0,441
+capoeirinha,1830.9876708757638,south of minas,944.0,944.0,944.0,442
+family farm,1830.9876708757638,kilimanjaro,1500.0,1800.0,1650.0,443
+club green,1830.9876708757638,lao p.d.r.,1250.0,1250.0,1250.0,444
+finca estate,1830.9876708757638,meru,1300.0,1400.0,1350.0,445
+chikali,1830.9876708757638,mzuzu,2500.0,2500.0,2500.0,446
+"you siang coffee farmtainan, taiwan 台灣台南優香咖啡",1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",600.0,600.0,600.0,447
+bsr,1830.9876708757638,occidental,1400.0,1400.0,1400.0,448
+gao chun fang 高醇坊,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",600.0,700.0,650.0,449
+la ceiba,1830.9876708757638,coscomatepec,940.0,940.0,940.0,450
+são josé da lagoa,1830.9876708757638,cerrado,1050.0,1050.0,1050.0,451
+el faro,1830.9876708757638,san marcos,1812.3495975560081,1849.6257441955195,1830.9876708757638,452
+santa mariana/são vicente,1830.9876708757638,south of minas,950.0,950.0,950.0,453
+la esperanza,1830.9876708757638,oriente,1901.0,1901.0,1901.0,454
+santa bárbara,1830.9876708757638,monte carmelo,1020.0,1020.0,1020.0,455
+la esperanza,1830.9876708757638,"el balsamo, quezaltepec",1250.0,1250.0,1250.0,456
+las cebollas y anexos,1830.9876708757638,nuevo oriente,1300.0,1800.0,1550.0,457
+mcomafa farm no1155gr,1830.9876708757638,mbeya,1877.0,1877.0,1877.0,458
+mubuyu munali,1830.9876708757638,mubuyu estate,1000.0,1500.0,1250.0,459
+platanal,1830.9876708757638,"chapulhuacan, hidalgo",981.0,981.0,981.0,460
+texpanco,1830.9876708757638,"huazalingo, hidalgo",690.0,690.0,690.0,461
+la laja,1830.9876708757638,veracruz,1650.0,1650.0,1650.0,462
+sitío corrego da olaria/são caetano,1830.9876708757638,grama valley,1100.0,1100.0,1100.0,463
+la esmeralda,1830.9876708757638,oriente,157.8864,157.8864,157.8864,464
+helena,1830.9876708757638,monte carmelo,973.0,973.0,973.0,465
+mudar,1830.9876708757638,bali,1250.0,1250.0,1250.0,466
+wat-ka-bu,1830.9876708757638,ywar ngan,4001.0,4001.0,4001.0,467
+rancho bonito,1830.9876708757638,chiapas,1350.0,1500.0,1425.0,468
+cerro bueno,1830.9876708757638,marcala,1400.0,1400.0,1400.0,469
+gao chun fang 高醇坊,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",700.0,700.0,700.0,470
+dozen small farmer,1830.9876708757638,lington nihuta,1300.0,1300.0,1300.0,471
+kakoma,1830.9876708757638,kakoma,1556.0,1556.0,1556.0,472
+gran manzana y el aguacate,1830.9876708757638,comayagua,1350.0,1350.0,1350.0,473
+various,1830.9876708757638,"siltepec el triunfo, chiapas, mexico",1550.0,1550.0,1550.0,474
+finca muxbal,1830.9876708757638,veracruz,1500.0,1500.0,1500.0,475
+el deseo,1830.9876708757638,coatepec,1250.0,1250.0,1250.0,476
+apollo estate,1830.9876708757638,vietnam,1040.0,1040.0,1040.0,477
+los magueyes,1830.9876708757638,"tenango de doria, hidalgo",774.0,774.0,774.0,478
+finca tepictla,1830.9876708757638,tepictla,1250.0,1250.0,1250.0,479
+"arroyo triste, arroyo triste, san jose vista hermosa",1830.9876708757638,oaxaca,1100.0,1100.0,1100.0,480
+santa cruz - pante doña graciela,1830.9876708757638,la concordia,1650.0,1650.0,1650.0,481
+la esmeralda,1830.9876708757638,santa rosa,1219.2,1219.2,1219.2,482
+multiple,1830.9876708757638,mbinga,1200.0,1800.0,1500.0,483
+ilomba 1,1830.9876708757638,"ilomba vilage, mbozi",1700.0,1700.0,1700.0,484
+rio verde,1830.9876708757638,south of minas,1260.0,1260.0,1260.0,485
+Unknown,1830.9876708757638,bener meriah,1812.3495975560081,1849.6257441955195,1830.9876708757638,486
+gran manzana y el aguacate,1830.9876708757638,comayagua,1400.0,1400.0,1400.0,487
+mu he zi coffee 木盒子咖啡園,1830.9876708757638,changhua baguashan 彰化市八卦山,150.0,150.0,150.0,488
+guo xin ka fei 國昕咖啡,1830.9876708757638,nantou,750.0,750.0,750.0,489
+union ramal santa cruz,1830.9876708757638,"la concordia, chiapas",1400.0,1400.0,1400.0,490
+finca cafetalera la suiza,1830.9876708757638,tuxtla gutierrez,1650.0,1650.0,1650.0,491
+Unknown,1830.9876708757638,yajalon,1400.0,1400.0,1400.0,492
+ucipa santa catarina,1830.9876708757638,veracruz,1200.0,1200.0,1200.0,493
+finca nueva linda,1830.9876708757638,"la concordia, chiapas",1400.0,1400.0,1400.0,494
+sacún palma,1830.9876708757638,"sacún palma, municipio de chilón, chiapas",940.0,940.0,940.0,495
+various,1830.9876708757638,western region,1200.0,1200.0,1200.0,496
+la esperanza,1830.9876708757638,huehuetenango,190164.0,190164.0,190164.0,497
+acacia hills,1830.9876708757638,"oldeani , mongola",1800.0,1800.0,1800.0,498
+kavuzi,1830.9876708757638,mzuzu,1100.0,1100.0,1100.0,499
+jacob's estate 雅谷咖啡,1830.9876708757638,natou county,850.0,850.0,850.0,500
+las nubes - pante don jaime,1830.9876708757638,la concordia,1600.0,1600.0,1600.0,501
+santa cruz - pante don jaime,1830.9876708757638,la concordia,1650.0,1650.0,1650.0,502
+finca las marías,1830.9876708757638,jalapa,1100.0,1100.0,1100.0,503
+谷泉咖啡莊園,1830.9876708757638,古坑鄉荷包村尖山坑60號,160.0,200.0,180.0,504
+mixed,1830.9876708757638,ywar ngan township,1219.2,1219.2,1219.2,505
+several,1830.9876708757638,occidental,1200.0,1200.0,1200.0,506
+chinongo,1830.9876708757638,mzuzu,1599.0,1599.0,1599.0,507
+various,1830.9876708757638,oriente,1219.2,1219.2,1219.2,508
+good mood coffee 馨晴咖啡        ,1830.9876708757638,natou county,900.0,900.0,900.0,509
+pereira estate coffee,1830.9876708757638,sul de minas,1200.0,1200.0,1200.0,510
+mixed,1830.9876708757638,"dondon, haiti",400.0,1250.0,825.0,511
+xu yuan zhang 徐源漳,1830.9876708757638,taichung xinshe 台中市新社區,600.0,600.0,600.0,512
+nueva linda,1830.9876708757638,"la concordia, chiapas",1150.0,1150.0,1150.0,513
+productor independiente guadalupe victoria,1830.9876708757638,amatenango de la frontera,1600.0,1600.0,1600.0,514
+santa maria temaxcalapa,1830.9876708757638,temaxcalapa,1100.0,1100.0,1100.0,515
+canoa manzanillo,1830.9876708757638,manzanillo,1000.0,1000.0,1000.0,516
+hamburgo 7 arroyos,1830.9876708757638,tapachula,1250.0,1250.0,1250.0,517
+el romance azul,1830.9876708757638,atoyac de alvarez,1100.0,1100.0,1100.0,518
+"ijen highland, east java",1830.9876708757638,ijen,1200.0,1600.0,1400.0,519
+sertao,1830.9876708757638,sul de minas,125.0,125.0,125.0,520
+chiquimulja / alpha cafe / senfro,1830.9876708757638,oriente,1812.3495975560081,1849.6257441955195,1830.9876708757638,521
+cafetal,1830.9876708757638,veracruz,1100.0,1100.0,1100.0,522
+nueva granada,1830.9876708757638,san marcos,1371.6,1371.6,1371.6,523
+fazenda rio brilhante,1830.9876708757638,cerrado,1100.0,1100.0,1100.0,524
+山彎有機咖啡農場,1830.9876708757638,苗栗三灣,110.0,110.0,110.0,525
+chimpumba,1830.9876708757638,mzuzu,1422.0,1422.0,1422.0,526
+santo tomas pachuj,1830.9876708757638,"san lucas toliman, solola",1550.0,1550.0,1550.0,527
+various,1830.9876708757638,siltepec el triunfo,1550.0,1550.0,1550.0,528
+palantla,1830.9876708757638,"huazalingo, hidalgo",763.0,763.0,763.0,529
+los brujos,1830.9876708757638,"coatepec, coatepec",1100.0,1100.0,1100.0,530
+fazenda sacramento,1830.9876708757638,cerrado,1100.0,1100.0,1100.0,531
+sertao farm,1830.9876708757638,mantiqueira de minas,1200.0,1200.0,1200.0,532
+bacofa,1830.9876708757638,"davao city, region 11",1400.0,1400.0,1400.0,533
+usingini farm,1830.9876708757638,mzuzu,1200.0,1200.0,1200.0,534
+cruz verde,1830.9876708757638,veracruz,1000.0,1000.0,1000.0,535
+fazendas klem ltda,1830.9876708757638,matas de minas        ,1100.0,1100.0,1100.0,536
+jing jing café 晶晶坊青山咖啡教室,1830.9876708757638,"dongshan dist., tainan city 台南市東山區",680.0,680.0,680.0,537
+cafetales santa matilde,1830.9876708757638,jinotega,1100.0,1100.0,1100.0,538
+el injerto s.a.,1830.9876708757638,huehuetenango,1700.0,1700.0,1700.0,539
+shangrilla estate,1830.9876708757638,karatu ngorogoro,1700.0,1700.0,1700.0,540
+jia jia coffee 佳佳咖啡莊,1830.9876708757638,nantou,650.0,650.0,650.0,541
+finca chanjul,1830.9876708757638,motozintla,1500.0,1500.0,1500.0,542
+mviwambi coffee farmers,1830.9876708757638,"ruvuma, mbinga",100.0,2000.0,1050.0,543
+los hicaques,1830.9876708757638,central region,1450.0,1450.0,1450.0,544
+"irisan, baguio",1830.9876708757638,corillera administrative,1200.0,1200.0,1200.0,545
+makoka valley estate,1830.9876708757638,southern- zomba,990.0,1000.0,995.0,546
+juliana,1830.9876708757638,monte carmelo,1812.3495975560081,1849.6257441955195,1830.9876708757638,547
+fazenda são sebastião,1830.9876708757638,south of minas,1000.0,1000.0,1000.0,548
+fazenda são josé mirante,1830.9876708757638,alta paulista (sao paulo),695.0,695.0,695.0,549
+Unknown,1830.9876708757638,central america,1706.88,1706.88,1706.88,550
+mwalyego amcos,1830.9876708757638,"iwala village, mbeya rural",1456.0,1456.0,1456.0,551
+santa laura,1830.9876708757638,naranjo,1500.0,1500.0,1500.0,552
+"san fernando, chiapas",1830.9876708757638,san fernando,1650.0,1650.0,1650.0,553
+cafetal sinai,1830.9876708757638,santo reyes nopala,1300.0,1300.0,1300.0,554
+Unknown,1830.9876708757638,santa maria sitepec,1642.0,1642.0,1642.0,555
+el desmoronado,1830.9876708757638,talpa de allende,1200.0,1200.0,1200.0,556
+Unknown,1830.9876708757638,United States (Hawaii),1812.3495975560081,1849.6257441955195,1830.9876708757638,557
+cachoeira da grama farm,1830.9876708757638,grama valley,1812.3495975560081,1849.6257441955195,1830.9876708757638,558
+santa josefita,1830.9876708757638,apaneca,1450.0,1450.0,1450.0,559
+jing jing café 晶晶坊青山咖啡教室,1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",758.0,758.0,758.0,560
+el cerron,1830.9876708757638,san marcos,1350.0,1350.0,1350.0,561
+rural cooperative society,1830.9876708757638,arusha,1525.0,1525.0,1525.0,562
+kapchorwa,1830.9876708757638,eastern,1700.0,1700.0,1700.0,563
+taiwan hao ka 台灣好咖莊園,1830.9876708757638,nantou,1100.0,1100.0,1100.0,564
+finca el gavilancillo,1830.9876708757638,"motozintla, chiapas",950.0,950.0,950.0,565
+Unknown,1830.9876708757638,adolfo lopez mateos,1100.0,1100.0,1100.0,566
+八杞莊園,1830.9876708757638,taiwan,200.0,200.0,200.0,567
+thiririka/maara,1830.9876708757638,kiambu,1600.0,1600.0,1600.0,568
+finca monte azúl,1830.9876708757638,veracruz,1100.0,1100.0,1100.0,569
+sithar coffee farm,1830.9876708757638,pyinoolwin,1066.8,1066.8,1066.8,570
+karatu estate,1830.9876708757638,"manyara, karatu",1700.0,1700.0,1700.0,571
+張文進莊園,1830.9876708757638,台中新社,550.0,550.0,550.0,572
+Unknown,1830.9876708757638,matagalpa,700.0,1400.0,1050.0,573
+bi yun si shi yi 碧云四十一咖啡坊,1830.9876708757638,taichung taiping 台中市太平區,900.0,900.0,900.0,574
+bai he lin coffee 白鶴林咖啡莊園,1830.9876708757638,nantou,688.0,688.0,688.0,575
+heng lu coffee 橫鹿咖啡,1830.9876708757638,new taipei zhonghe 新北市中和區,300.0,300.0,300.0,576
+"olotlan, el plan, criollo garnica",1830.9876708757638,ixhuatlan del cafe,1186.0,1186.0,1186.0,577
+several,1830.9876708757638,orient,1200.0,1200.0,1200.0,578
+la victoria pante nubes,1830.9876708757638,motozintla,1210.0,1210.0,1210.0,579
+finca santa clara,1830.9876708757638,oaxaca,1100.0,1100.0,1100.0,580
+selva negra,1830.9876708757638,veracruz,100.0,100.0,100.0,581
+myaing,1830.9876708757638,ywar ngan,3825.0,3825.0,3825.0,582
+cafetales santa matilde,1830.9876708757638,jinotega,110000.0,110000.0,110000.0,583
+juan damaso,1830.9876708757638,"siguatepeque, comayagua",1450.0,1450.0,1450.0,584
+san josé y el portillo,1830.9876708757638,oaxaca,1200.0,1200.0,1200.0,585
+2000 farms,1830.9876708757638,haiti,1000.0,1000.0,1000.0,586
+胖胖糖,1830.9876708757638,taiwan,1812.3495975560081,1849.6257441955195,1830.9876708757638,587
+darmawi,1830.9876708757638,sumatra brastagi,1200.0,1500.0,1350.0,588
+gamboa,1830.9876708757638,tarrazu,185.0,185.0,185.0,589
+"el desmoronado, talpan de allende jalisco",1830.9876708757638,"el desmoronado, talpan de allende jalisco",1200.0,1200.0,1200.0,590
+burka coffee estates,1830.9876708757638,arusha,1400.0,1400.0,1400.0,591
+finca el naranjal,1830.9876708757638,huehuetenango,1383.792,1383.792,1383.792,592
+王秋金,1830.9876708757638,taiwan,50.0,50.0,50.0,593
+el guayabo,1830.9876708757638,santa rosa,1500.0,1500.0,1500.0,594
+la bendicion,1830.9876708757638,ocotepeque,1650.0,1650.0,1650.0,595
+cachoeira da grama farm,1830.9876708757638,vale da grama,1250.0,1250.0,1250.0,596
+mixed,1830.9876708757638,pyin oo lwin,3800.0,3800.0,3800.0,597
+pereira estate coffee,1830.9876708757638,mantiqueira de minas,1250.0,1250.0,1250.0,598
+barranca de las flores,1830.9876708757638,huehuetenango,1859.28,1859.28,1859.28,599
+peña negra,1830.9876708757638,zaragoza itundujia,1450.0,1450.0,1450.0,600
+春風咖啡,1830.9876708757638,南投國姓,600.0,600.0,600.0,601
+finca la fany,1830.9876708757638,"department of ahuachapan, municipality of apanecallamatepec mountain",1450.0,1450.0,1450.0,602
+alicia's farm,1830.9876708757638,yunnan,1700.0,1700.0,1700.0,603
+guoxing farm coffee 國姓農場咖啡        ,1830.9876708757638,nantou,600.0,600.0,600.0,604
+copalita,1830.9876708757638,pochutla,1050.0,1050.0,1050.0,605
+delfina farm,1830.9876708757638,mkuu rombo,1700.0,1700.0,1700.0,606
+kongoni estate,1830.9876708757638,arusha,1812.3495975560081,1849.6257441955195,1830.9876708757638,607
+tokoffee莊園,1830.9876708757638,taichung xinshe 台中市新社區,600.0,600.0,600.0,608
+la castellana,1830.9876708757638,oriente,1310.64,1310.64,1310.64,609
+são rafael_ ra/ras certified,1830.9876708757638,cerrado - monte carmelo - minas gerais,995.0,995.0,995.0,610
+las moras,1830.9876708757638,comayagua,1400.0,1400.0,1400.0,611
+cortapico,1830.9876708757638,sierra madre occidental,1600.0,1600.0,1600.0,612
+waylead farms,1830.9876708757638,"yauk sauk, shan state",914.4,914.4,914.4,613
+thein kone,1830.9876708757638,ywar ngan,4287.0,4287.0,4287.0,614
+finca el consuelo,1830.9876708757638,matagalpa,900.0,900.0,900.0,615
+weng hui ling 翁惠鈴,1830.9876708757638,chiayi fanlu嘉義縣番路鄉,700.0,700.0,700.0,616
+several,1830.9876708757638,oriente,1400.0,1400.0,1400.0,617
+mirador,1830.9876708757638,"calnali, hidalgo",808.0,808.0,808.0,618
+los mesones,1830.9876708757638,jinotega,1100.0,1275.0,1187.5,619
+"la orduña, coatepec, veracruz",1830.9876708757638,coatepec,1250.0,1250.0,1250.0,620
+el carrizo,1830.9876708757638,zaragoza itundujia,1550.0,1550.0,1550.0,621
+el aguacate,1830.9876708757638,veracruz,1000.0,1000.0,1000.0,622
+Unknown,1830.9876708757638,mantiqueira de minas,1100.0,1100.0,1100.0,623
+好自在咖啡莊園,1830.9876708757638,苗栗泰安,850.0,850.0,850.0,624
+sheng he shang pin coffee 聖荷上品咖啡坊,1830.9876708757638,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,200.0,200.0,200.0,625
+a shu she coffee 阿束社咖啡莊園,1830.9876708757638,changhua baguashan 彰化市八卦山,150.0,150.0,150.0,626
+wu kun shan coffee 吳焜山咖啡園,1830.9876708757638,changhua baguashan 彰化市八卦山,250.0,250.0,250.0,627
+el tabaco,1830.9876708757638,zaragoza itundujia,1300.0,1300.0,1300.0,628
+Unknown,1830.9876708757638,escuitla,1300.0,1300.0,1300.0,629
+doe kwin,1830.9876708757638,"doe kwin, pyin oo lwin",3845.0,3845.0,3845.0,630
+various,1830.9876708757638,"sierra fraylesca, chiapas",1300.0,1500.0,1400.0,631
+zhang li hong coffee 張立宏咖啡莊園,1830.9876708757638,changhua baguashan 彰化市八卦山,250.0,250.0,250.0,632
+"santa clara, california y camila",1830.9876708757638,san miguel del puerto,1100.0,1100.0,1100.0,633
+finca buenos aires,1830.9876708757638,"motozintla, chiapas",1100.0,1100.0,1100.0,634
+rancho san francisco iii,1830.9876708757638,veracruz,1100.0,1100.0,1100.0,635
+finca monte grande,1830.9876708757638,jaltenango,1100.0,1100.0,1100.0,636
+finca la orduña,1830.9876708757638,coatepec,1250.0,1250.0,1250.0,637
+finca huehuetecpan,1830.9876708757638,veracruz,1250.0,1250.0,1250.0,638
+yara estate / benvar estate,1830.9876708757638,kiambu,1500.0,1500.0,1500.0,639
+asociación aldea global jinotega,1830.9876708757638,jinotega,1250.0,1250.0,1250.0,640
+la cuchilla,1830.9876708757638,veracruz,1300.0,1300.0,1300.0,641
+la esperanza,1830.9876708757638,oriente,190164.0,190164.0,190164.0,642
+ka-vulungan coffee estate,1830.9876708757638,"taiwu township , pingtung county 屏東縣泰武鄉",800.0,1200.0,1000.0,643
+baijiada coffee farm佰加達咖啡莊園,1830.9876708757638,"baihe dist., tainan city 臺南市白河區",500.0,700.0,600.0,644
+several,1830.9876708757638,brunca,1100.0,1100.0,1100.0,645
+comonyaj noptic s de ss,1830.9876708757638,chiapas,1022.0,1022.0,1022.0,646
+el vergel,1830.9876708757638,pochutla,1050.0,1050.0,1050.0,647
+genuine antigua medina,1830.9876708757638,antigua,1812.3495975560081,1849.6257441955195,1830.9876708757638,648
+finca monte grande,1830.9876708757638,tuxtla gutierrez,1100.0,1100.0,1100.0,649
+el encinal,1830.9876708757638,"tenango de doria, hidalgo",975.0,975.0,975.0,650
+consolapa,1830.9876708757638,"coatepec, coatepec",1264.0,1264.0,1264.0,651
+tepetzingo,1830.9876708757638,tepetzingo,1250.0,1250.0,1250.0,652
+las nubes,1830.9876708757638,jinotega,1050.0,1050.0,1050.0,653
+su-zhen huang 黃素真,1830.9876708757638,nantou,700.0,700.0,700.0,654
+Unknown,1830.9876708757638,cundinamarca,1550.0,1550.0,1550.0,655
+casa blanca,1830.9876708757638,"coatepec, coatepec",1100.0,1100.0,1100.0,656
+cre-leg l-4,1830.9876708757638,xicotepec de juarez,800.0,800.0,800.0,657
+several,1830.9876708757638,pereira,1200.0,1200.0,1200.0,658
+el encanto,1830.9876708757638,zentla,950.0,950.0,950.0,659
+la gloria,1830.9876708757638,zentla,750.0,750.0,750.0,660
+conquista / morito,1830.9876708757638,oriente,1812.3495975560081,1849.6257441955195,1830.9876708757638,661
+baishencun coffee farm百勝村咖啡莊園,1830.9876708757638,natou county,850.0,850.0,850.0,662
+chapultepec,1830.9876708757638,occidente,1320.0,1320.0,1320.0,663
+Unknown,1830.9876708757638,san rafael,1812.3495975560081,1849.6257441955195,1830.9876708757638,664
+la tejeria,1830.9876708757638,zaragoza itundujia,1550.0,1550.0,1550.0,665
+el delirio,1830.9876708757638,yajalon,1450.0,1450.0,1450.0,666
+huanacaxtle,1830.9876708757638,zaragoza itundujia,1500.0,1500.0,1500.0,667
+las palmas,1830.9876708757638,tlacuilotepec,1100.0,1100.0,1100.0,668
+various,1830.9876708757638,intibuca,1350.0,1350.0,1350.0,669
+Unknown,1830.9876708757638,san ignacio,1400.0,1400.0,1400.0,670
+Unknown,1830.9876708757638,"iliatenco, guerrero",1300.0,1300.0,1300.0,671
+el sauce,1830.9876708757638,zaragoza itundujia,1550.0,1550.0,1550.0,672
+pico del oro,1830.9876708757638,amatenango de la frontera,12.0,12.0,12.0,673
+la pandora,1830.9876708757638,zaragoza itundujia,1400.0,1400.0,1400.0,674
+"la patrona, el trebol, la cadena",1830.9876708757638,veracruz,1320.0,1320.0,1320.0,675
+el tesoro,1830.9876708757638,veracruz,1250.0,1250.0,1250.0,676
+los encinos,1830.9876708757638,"ohuapan, tlaltetela",1350.0,1350.0,1350.0,677
+alicia's farm,1830.9876708757638,yunnan,1850.0,1850.0,1850.0,678
+los pinos,1830.9876708757638,yecuatla,1150.0,1150.0,1150.0,679
+grapos el porvenir,1830.9876708757638,tapachula,1400.0,1400.0,1400.0,680
+cofradia,1830.9876708757638,cofradia de suchitlan,1300.0,1300.0,1300.0,681
+various,1830.9876708757638,"sierra, chiapas",1600.0,1600.0,1600.0,682
+finca sego,1830.9876708757638,villa talea de castro,1400.0,1400.0,1400.0,683
+cerca de los angeles,1830.9876708757638,los angeles,1200.0,1200.0,1200.0,684
+el naranjo,1830.9876708757638,zaragoza itundujia,1500.0,1500.0,1500.0,685
+llano hermoso,1830.9876708757638,"xochitonalco, huautla        ",1300.0,1300.0,1300.0,686
+various,1830.9876708757638,ijen,1300.0,1300.0,1300.0,687
+Unknown,1830.9876708757638,cordoba,1050.0,1050.0,1050.0,688
+hani,1830.9876708757638,yunnan,1200.0,1200.0,1200.0,689
+finca la fortuna,1830.9876708757638,"motozintla, chiapas",850.0,850.0,850.0,690
+el regadito,1830.9876708757638,petatlan,1248.0,1248.0,1248.0,691
+"dongshan gaoyuan village chief manor coffee tainan, taiwan 台灣台南東山高原村長莊園咖啡",1830.9876708757638,"dongshan dist., tainan city 臺南市東山區",750.0,800.0,775.0,692
+rancho los laureles,1830.9876708757638,coatepec,1300.0,1300.0,1300.0,693
+finca los andes,1830.9876708757638,"motozintla, chiapas",1200.0,1200.0,1200.0,694
+"producer group (approx. 1,000 farmers)",1830.9876708757638,san ignacio,900.0,1500.0,1200.0,695
+Unknown,1830.9876708757638,coatepec,1100.0,1100.0,1100.0,696
+agua de la mariposa,1830.9876708757638,zaragoza itundujia,1400.0,1400.0,1400.0,697
+1,1830.9876708757638,indonesia,3500.0,3500.0,3500.0,698
+la joya,1830.9876708757638,tlacuilotepec,1100.0,1100.0,1100.0,699
+"zaragoza, montelibano, pamal navil",1830.9876708757638,ocosingo,1200.0,1200.0,1200.0,700
+peña campana,1830.9876708757638,huautla de jimenez,1280.0,1280.0,1280.0,701
+la cruz,1830.9876708757638,menglian,850.0,850.0,850.0,702
+el limón,1830.9876708757638,zaragoza itundujia,1500.0,1500.0,1500.0,703
+la orduña,1830.9876708757638,coatepec,1250.0,1250.0,1250.0,704
+sierra madre,1830.9876708757638,chiapas,1700.0,1700.0,1700.0,705
+las ceibas,1830.9876708757638,"chocaman, veracruz",1140.0,1140.0,1140.0,706
+la marina-el orizabeño,1830.9876708757638,xalapa,1200.0,1200.0,1200.0,707
+rancho vigia,1830.9876708757638,coatepec,1250.0,1250.0,1250.0,708
+various,1830.9876708757638,sierra alta mixe y zapoteca,1200.0,1200.0,1200.0,709
+la vuelta,1830.9876708757638,tlatlauquitepec,800.0,800.0,800.0,710
+la morena,1830.9876708757638,veracruz,1800.0,1800.0,1800.0,711
+various,1830.9876708757638,"sierra norte yajalon, chiapas",1000.0,1000.0,1000.0,712
+el centenario,1830.9876708757638,juchique de ferrer,900.0,900.0,900.0,713
+200 farms,1830.9876708757638,"department d'artibonite , haiti",350.0,350.0,350.0,714
+sethuraman estate,1830.9876708757638,chikmagalur karnataka,1000.0,1000.0,1000.0,715
+sethuraman estate kaapi royale,1830.9876708757638,chikmagalur karnataka,1000.0,1000.0,1000.0,716
+sethuraman estates,1830.9876708757638,chikmagalur,3000.0,3000.0,3000.0,717
