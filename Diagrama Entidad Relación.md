@@ -69,6 +69,8 @@
         int ProcessingID FK
         int CertificationID FK
         int ColorID FK
+        date Harvest_Year
+        date Grading_Date
         string Aroma
         string Flavor
         string Aftertaste
