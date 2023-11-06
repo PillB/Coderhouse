@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/styles.css"> 
+    <title>CrearIA - Comunidades</title>
+</head>
+<body>
+    <header class="header-content">
+        <h1>CrearIA</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="explorar.html">Explorar</a></li>
+                <li><a href="talleres.html">Talleres</a></li>
+                <li><a href="comunidad.html" class ="active">Comunidad</a></li>
+                <li><a href="publica.html">Publica</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="comunidades">
+            <div class="comunidades-header">
+                <h2>Comunidades</h2>
+                <button>+ Nuevo Topic</button>
+            </div>
+            <div class="headers grid-container">
+                <span class="topic-title">Topic</span>
+                <span class="author">Autor</span>
+                <span class="likes">Likes</span>
+                <span class="comments">Comentarios</span>
+                <span class="visits">Visitas</span>
+                <span class="favorites">Favoritos</span>
+            </div>
+            <div class="topic-list">
+                <!-- Repeat the following for each topic -->
+                <div class="topic grid-container">
+                    <h3>Tópic 1</h3>
+                    <span class="author">Autor 1</span>
+                    <span class="likes">#</span>
+                    <span class="comments">#</span>
+                    <span class="visits">#</span>
+                    <span class="favorites">#</span>
+                </div>
+                <!-- End of topic -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <nav>
+                <ul>
+                    <li><a href="#">Redes Sociales</a></li>
+                    <li><a href="#">Contacto</a></li>
+                    <li><a href="#">Política de Privacidad</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+    <div class="mobile-category-menu">
+        <button class="menu-toggle">☰</button>
+        <div class="container">
+            <ul>
+                <li><a href="#" class="active">Topic 1</a></li>
+                <li><a href="#">Topic 2</a></li>
+                <!-- Add more categories as needed -->
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

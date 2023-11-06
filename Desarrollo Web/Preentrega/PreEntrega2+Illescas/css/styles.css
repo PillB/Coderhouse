@@ -1,0 +1,183 @@
+/* General styles and resets */
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+/* Assuming that <main> is the main content area */
+main {
+    flex-grow: 1;
+}
+
+/* Container */
+.container {
+    flex-grow: 1; /* Allow container to expand vertically if there is space */
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Header and Navigation Styles */
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: lightblue;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header nav, footer nav {
+    display: inline-block; /* Allows the UL to size to content and be centered */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 1rem;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+nav li a.active {
+    background-color: white;
+    color: lightblue;
+}
+
+/* Specific carousel styles */
+.carousel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.carousel h2, .carousel {
+    margin-bottom: 1rem;
+}
+
+/* Grid & Flex Container styles */
+.grid-container.items, .items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid layout */
+    gap: 1rem;
+}
+
+.item {
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.item img {
+    width: 100%; /* Make image fit the container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Footer Styles */
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: lightblue;
+    text-align: center;
+}
+
+/* Map Styles */
+#map-container {
+    margin: 2rem 0;
+}
+
+#map { 
+    height: 400px;
+    width: 100%;
+}
+
+/* Hide the mobile menu on larger screens */
+.mobile-category-menu {
+    display: none;
+}
+/* Responsive Styles */
+@media (max-width: 768px) {
+    header, footer {
+        flex-direction: column;
+    }
+
+    /* Show the mobile menu */
+    .mobile-category-menu {
+        display: block;
+    }
+
+    /* Hide the main navigation menu */
+    header nav ul {
+        display: none;
+    }
+
+    /* Show the menu when the menu-toggle button is clicked */
+    .mobile-category-menu.active ul {
+        display: block;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav li {
+        width: 100%; /* Full width for nav items */
+        text-align: center; /* Center align the nav text */
+    }
+
+    .header-content, .footer-content, .headers, .publication, .topic {
+        flex-direction: column;
+    }
+
+    .headers, .publication, .topic {
+        /* Change from repeat(4, 1fr) to 1fr for a single column on mobile */
+        grid-template-columns: 1fr; 
+    }
+
+    /* Hide elements that are not as critical on a mobile view */
+    .headers .comments, .publication .comments, 
+    .headers .visits, .publication .visits,
+    .headers .comments, .topic .comments, 
+    .headers .visits, .topic .visits {
+        display: none;
+    }
+
+    .container {
+        /* Reduce max-width on smaller screens to ensure the container is responsive */
+        max-width: 100%;
+        padding: 0 10px; /* Adjust padding to ensure content is not too wide */
+    }
+
+    .publication-list article {
+        /* Stacking publication articles vertically */
+        flex-direction: column;
+        align-items: start; /* Align content to the start for better readability */
+    }
+
+}
